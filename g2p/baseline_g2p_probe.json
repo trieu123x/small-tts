@@ -1,0 +1,1627 @@
+{
+ "probes": {
+  "a mít kế toán": "a ˧˧ ▁ m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦",
+  "a-mít kế toán": "a ˧˧ - m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦",
+  "a_mít kế_toán": "a ˧˧ m i t ˦˥ ▁ k e ˨˦ t w a n ˨˦",
+  "tắc": "t ă k ˦˥",
+  "xa": "s a ˧˧",
+  "salagov": "s a l a ɣ ɔ v ˧˧",
+  "sa la gov": "s a ˧˧ ▁ l a ˧˧ ▁ ɣ ɔ v ˧˧",
+  "mi-sa-sa-la-gov": "m i ˧˧ - s a ˧˧ - s a ˧˧ - l a ˧˧ - ɣ ɔ v ˧˧",
+  "hỗ trợ": "h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ",
+  "khuyến mại": "x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ",
+  "hóa đơn": "h w a ˨˦ ▁ d ɤ n ˧˧",
+  "hoá đơn": "h w a ˨˦ ▁ d ɤ n ˧˧",
+  "nhiên": "ɲ i ə n ˧˧",
+  "quảng": "k w a ŋ ˧˩˨",
+  "a-mis kế toán, phần mềm kế toán online.": "a ˧˧ - m i s ˧˧ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧",
+  "a-mis kế toán , phần mềm kế toán online .": "a ˧˧ - m i s ˧˧ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ .",
+  "Lĩnh vực": "l i ŋ ˧ˀ˥ ▁ v ɯ k ˨ˀ˩",
+  "lĩnh vực": "l i ŋ ˧ˀ˥ ▁ v ɯ k ˨ˀ˩",
+  "A-MÍT": "a ˧˧ - m i t ˦˥",
+  "mis": "m i s ˧˧",
+  "misa": "m i s a ˧˧",
+  "gov": "ɣ ɔ v ˧˧",
+  "online": "ɔ n ˧˧ l i n ˧˧",
+  "marketing": "m ˧˧ k e t ˈi ŋ ˧˧",
+  "jetpay": "z ɛ t ˧ p ă j ˧˧",
+  "bank-hắp": "b a n k ˧˧ - h ă p ˦˥",
+  "hắp": "h ă p ˦˥",
+  "cừn": "k ɯ n ˧˨",
+  "ây": "ɤ̆ j ˧˧",
+  "ây-ai-marketing": "ɤ̆ j ˧˧ - a j ˧˧ - m ă r k ˧˧ t i ŋ ˧˧",
+  "chấm": "c ɤ̆ m ˨˦",
+  "net": "n ɛ t ˧˧",
+  "ích": "i k ˦˥",
+  "1": "ɛ ˧˧",
+  "một": "m o t ˨ˀ˩",
+  "-": "-",
+  ",": ",",
+  ".": ".",
+  "a - mít": "a ˧˧ ▁ - ▁ m i t ˦˥"
+ },
+ "dataset": [
+  {
+   "id": "1.wav",
+   "text": "a-mis kế toán, phần mềm kế toán online.",
+   "prep": "a-mis kế toán , phần mềm kế toán online .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ ."
+  },
+  {
+   "id": "2.wav",
+   "text": "mi-sa meinvoice, hóa đơn điện tử.",
+   "prep": "mi-sa meinvoice , hóa đơn điện tử .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ."
+  },
+  {
+   "id": "3.wav",
+   "text": "mi-sa y-sai, dịch vụ chữ ký số.",
+   "prep": "mi-sa y-sai , dịch vụ chữ ký số .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ i ˧˧ - s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ i ˧˧ ▁ s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "4.wav",
+   "text": "a-mis mua hàng, quản lý mua hàng.",
+   "prep": "a-mis mua hàng , quản lý mua hàng .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "5.wav",
+   "text": "mi-sa em-tax, kê khai, nộp tờ khai thuế.",
+   "prep": "mi-sa em-tax , kê khai , nộp tờ khai thuế .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ , ▁ n o p ˨ˀ˩ ▁ t ɤ ˧˨ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ , ▁ n o p ˨ˀ˩ ▁ t ɤ ˧˨ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ ."
+  },
+  {
+   "id": "6.wav",
+   "text": "jetpay bank-hắp, đối soát và hạch toán ngân hàng.",
+   "prep": "jetpay bank-hắp , đối soát và hạch toán ngân hàng .",
+   "phon_hyphen_kept": "z ɛ t ˧ p ă j ˧˧ ▁ b a n k ˧˧ - h ă p ˦˥ ▁ , ▁ d o j ˨˦ ▁ s w a t ˦˥ ▁ v a ˧˨ ▁ h ɛ k ˨ˀ˩ ▁ t w a n ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ h a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "z ɛ t ˧ p ă j ˧˧ ▁ b a n k ˧˧ ▁ h ă p ˦˥ ▁ , ▁ d o j ˨˦ ▁ s w a t ˦˥ ▁ v a ˧˨ ▁ h ɛ k ˨ˀ˩ ▁ t w a n ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ h a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "7.wav",
+   "text": "mi-sa ây-ét-pi, kế toán dịch vụ.",
+   "prep": "mi-sa ây-ét-pi , kế toán dịch vụ .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɤ̆ j ˧˧ - ɛ t ˦˥ - p i ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɤ̆ j ˧˧ ▁ ɛ t ˦˥ ▁ p i ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "8.wav",
+   "text": "mi-sa lending, kết nối vay vốn doanh nghiệp.",
+   "prep": "mi-sa lending , kết nối vay vốn doanh nghiệp .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ l ɛ n ˧˧ i ŋ ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ v ă j ˧˧ ▁ v o n ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ l ɛ n ˧˧ i ŋ ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ v ă j ˧˧ ▁ v o n ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "9.wav",
+   "text": "a-mis ây-ai-marketing, công cụ automation marketing.",
+   "prep": "a-mis ây-ai-marketing , công cụ automation marketing .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ ɤ̆ j ˧˧ - a j ˧˧ - m ă r k ˧˧ t i ŋ ˧˧ ▁ , ▁ k o ŋ͡m ˧˧ ▁ k u ˨ˀ˩ ʔ ▁ ă w t ˧˧ m a t ˧˧ i ɔ n ˧˧ ▁ m ˧˧ k e t ˈi ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ ɤ̆ j ˧˧ ▁ a j ˧˧ ▁ m ˧˧ k e t ˈi ŋ ˧˧ ▁ , ▁ k o ŋ͡m ˧˧ ▁ k u ˨ˀ˩ ʔ ▁ ă w t ˧˧ m a t ˧˧ i ɔ n ˧˧ ▁ m ˧˧ k e t ˈi ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "10.wav",
+   "text": "a-mis khuyến mại, quản lý khuyến mại.",
+   "prep": "a-mis khuyến mại , quản lý khuyến mại .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "11.wav",
+   "text": "mi-sa e-shop, quản lý cửa hàng.",
+   "prep": "mi-sa e-shop , quản lý cửa hàng .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɛ ˧˧ - ʂ ɔ p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ ˧˧ ▁ s ɔ p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "12.wav",
+   "text": "mi-sa cúc cúc, quản lý nhà hàng.",
+   "prep": "mi-sa cúc cúc , quản lý nhà hàng .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "13.wav",
+   "text": "jetpay payment, cổng thanh toán.",
+   "prep": "jetpay payment , cổng thanh toán .",
+   "phon_hyphen_kept": "z ɛ t ˧ p ă j ˧˧ ▁ p ă j ˧˧ m ɛ n t ˧˧ ▁ , ▁ k o ŋ͡m ˧˩˨ ▁ tʰ ɛ ŋ ˧˧ ▁ t w a n ˨˦ ▁ .",
+   "phon_hyphen_space": "z ɛ t ˧ p ă j ˧˧ ▁ p ă j ˧˧ m ɛ n t ˧˧ ▁ , ▁ k o ŋ͡m ˧˩˨ ▁ tʰ ɛ ŋ ˧˧ ▁ t w a n ˨˦ ▁ ."
+  },
+  {
+   "id": "14.wav",
+   "text": "a-mis tuyển dụng, quản lý tuyển dụng.",
+   "prep": "a-mis tuyển dụng , quản lý tuyển dụng .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ t w i ə n ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t w i ə n ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ t w i ə n ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t w i ə n ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "15.wav",
+   "text": "a-mis thông tin nhân sự, hệ thống thông tin nhân sự.",
+   "prep": "a-mis thông tin nhân sự , hệ thống thông tin nhân sự .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "16.wav",
+   "text": "a-mis đánh giá, đánh giá nhân viên.",
+   "prep": "a-mis đánh giá , đánh giá nhân viên .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ , ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ , ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ ."
+  },
+  {
+   "id": "17.wav",
+   "text": "a-mis chấm công, quản lý chấm công.",
+   "prep": "a-mis chấm công , quản lý chấm công .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ ."
+  },
+  {
+   "id": "18.wav",
+   "text": "a-mis tiền lương, quản lý tiền lương.",
+   "prep": "a-mis tiền lương , quản lý tiền lương .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ t i ə n ˧˨ ▁ l ɯ ə ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t i ə n ˧˨ ▁ l ɯ ə ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ t i ə n ˧˨ ▁ l ɯ ə ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t i ə n ˧˨ ▁ l ɯ ə ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "19.wav",
+   "text": "a-mis bảo hiểm xã hội, bảo hiểm xã hội điện tử.",
+   "prep": "a-mis bảo hiểm xã hội , bảo hiểm xã hội điện tử .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ."
+  },
+  {
+   "id": "20.wav",
+   "text": "a-mis thuế thu nhập cá nhân, phần mềm kê khai thuế thu nhập cá nhân.",
+   "prep": "a-mis thuế thu nhập cá nhân , phần mềm kê khai thuế thu nhập cá nhân .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ ."
+  },
+  {
+   "id": "21.wav",
+   "text": "Lĩnh vực quản lý, điều hành.",
+   "prep": "lĩnh vực quản lý , điều hành .",
+   "phon_hyphen_kept": "l i ŋ ˧ˀ˥ ▁ v ɯ k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "l i ŋ ˧ˀ˥ ▁ v ɯ k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "22.wav",
+   "text": "a-mis công việc, quản lý công việc.",
+   "prep": "a-mis công việc , quản lý công việc .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "23.wav",
+   "text": "a-mis quy trình, quản lý quy trình.",
+   "prep": "a-mis quy trình , quản lý quy trình .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "24.wav",
+   "text": "a-mis ghi chép, ghi chép và lưu trữ tài liệu.",
+   "prep": "a-mis ghi chép , ghi chép và lưu trữ tài liệu .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ v a ˧˨ ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ v a ˧˨ ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "25.wav",
+   "text": "a-mis wi-sai, ký tài liệu số.",
+   "prep": "a-mis wi-sai , ký tài liệu số .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ w i ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ w i ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "26.wav",
+   "text": "a-mis mạng xã hội, mạng xã hội doanh nghiệp.",
+   "prep": "a-mis mạng xã hội , mạng xã hội doanh nghiệp .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "27.wav",
+   "text": "a-mis tài sản, quản lý tài sản.",
+   "prep": "a-mis tài sản , quản lý tài sản .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ ."
+  },
+  {
+   "id": "28.wav",
+   "text": "a-mis phòng họp, quản lý phòng họp.",
+   "prep": "a-mis phòng họp , quản lý phòng họp .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "29.wav",
+   "text": "a-mít mạng xã hội, kết nối nhân viên, chia sẻ dễ dàng.",
+   "prep": "a-mít mạng xã hội , kết nối nhân viên , chia sẻ dễ dàng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "30.wav",
+   "text": "misa bamboo-chấm-nét, nền tảng học tập trực tuyến.",
+   "prep": "misa bamboo-chấm-nét , nền tảng học tập trực tuyến .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ ."
+  },
+  {
+   "id": "31.wav",
+   "text": "meinvoice chấm vi-en, hóa đơn điện tử, dễ sử dụng.",
+   "prep": "meinvoice chấm vi-en , hóa đơn điện tử , dễ sử dụng .",
+   "phon_hyphen_kept": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ - ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ z e ˧ˀ˥ ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ z e ˧ˀ˥ ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "32.wav",
+   "text": "misa cúc cúc, phần mềm nhà hàng, vận hành hiệu quả.",
+   "prep": "misa cúc cúc , phần mềm nhà hàng , vận hành hiệu quả .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ f ɤ̆ n ˧˨ ▁ m e m ˧˨ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "33.wav",
+   "text": "a-mít danh bạ, quản lý liên hệ, đồng bộ tự động.",
+   "prep": "a-mít danh bạ , quản lý liên hệ , đồng bộ tự động .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ z ɛ ŋ ˧˧ ▁ b a ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ l i ə n ˧˧ ▁ h e ˨ˀ˩ ʔ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ z ɛ ŋ ˧˧ ▁ b a ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ l i ə n ˧˧ ▁ h e ˨ˀ˩ ʔ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "34.wav",
+   "text": "a-mít khuyến mại, tạo chương trình mới, tăng doanh số.",
+   "prep": "a-mít khuyến mại , tạo chương trình mới , tăng doanh số .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ c ɯ ə ŋ ˧˧ ▁ c i ŋ ˧˨ ▁ m ɤ j ˨˦ ▁ , ▁ t ă ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ c ɯ ə ŋ ˧˧ ▁ c i ŋ ˧˨ ▁ m ɤ j ˨˦ ▁ , ▁ t ă ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "35.wav",
+   "text": "a-mít nhân sự, quản lý nhân viên, tối ưu quy trình.",
+   "prep": "a-mít nhân sự , quản lý nhân viên , tối ưu quy trình .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ v i ə n ˧˧ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "36.wav",
+   "text": "a-mít văn thư, quản lý công văn, tra cứu nhanh chóng.",
+   "prep": "a-mít văn thư , quản lý công văn , tra cứu nhanh chóng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "37.wav",
+   "text": "a-mít bảo hiểm xã hội, kê khai trực tuyến, xử lý nhanh.",
+   "prep": "a-mít bảo hiểm xã hội , kê khai trực tuyến , xử lý nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "38.wav",
+   "text": "a-mít kế toán hộ kinh doanh, quản lý doanh thu, theo dõi chi phí.",
+   "prep": "a-mít kế toán hộ kinh doanh , quản lý doanh thu , theo dõi chi phí .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ ."
+  },
+  {
+   "id": "39.wav",
+   "text": "a-mít thuế thu nhập cá nhân, kê khai dễ dàng, tiết kiệm thời gian.",
+   "prep": "a-mít thuế thu nhập cá nhân , kê khai dễ dàng , tiết kiệm thời gian .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ ."
+  },
+  {
+   "id": "40.wav",
+   "text": "misa bank-hắp, kết nối ngân hàng, giao dịch thuận tiện.",
+   "prep": "misa bank-hắp , kết nối ngân hàng , giao dịch thuận tiện .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b a n k ˧˧ - h ă p ˦˥ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b a n k ˧˧ ▁ h ă p ˦˥ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "41.wav",
+   "text": "misa short-link, rút gọn liên kết, chia sẻ nhanh chóng.",
+   "prep": "misa short-link , rút gọn liên kết , chia sẻ nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɕ ɔ r t ˧˧ - l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ s ɔ r t ˧˧ ▁ l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "42.wav",
+   "text": "res-tab, quản lý nhà hàng, phục vụ chuyên nghiệp.",
+   "prep": "res-tab , quản lý nhà hàng , phục vụ chuyên nghiệp .",
+   "phon_hyphen_kept": "z ɛ s ˧˧ - t a b ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "z ɛ s ˧˧ ▁ t a b ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "43.wav",
+   "text": "salagov, chuyển đổi số, nâng cao hiệu quả quản lý.",
+   "prep": "salagov , chuyển đổi số , nâng cao hiệu quả quản lý .",
+   "phon_hyphen_kept": "s a l a ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ .",
+   "phon_hyphen_space": "s a l a ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ."
+  },
+  {
+   "id": "44.wav",
+   "text": "taskgo, quản lý nhiệm vụ, cộng tác dễ dàng.",
+   "prep": "taskgo , quản lý nhiệm vụ , cộng tác dễ dàng .",
+   "phon_hyphen_kept": "t a s k ɣ ɔ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ i ə m ˨ˀ˩ ʔ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "t a s k ɣ ɔ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ i ə m ˨ˀ˩ ʔ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "45.wav",
+   "text": "taskgov, xử lý công việc, theo dõi tiến độ.",
+   "prep": "taskgov , xử lý công việc , theo dõi tiến độ .",
+   "phon_hyphen_kept": "t a s k ˧˧ ɣ ɔ v ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "t a s k ˧˧ ɣ ɔ v ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "46.wav",
+   "text": "si-sap, tích hợp dữ liệu, hỗ trợ phân tích.",
+   "prep": "si-sap , tích hợp dữ liệu , hỗ trợ phân tích .",
+   "phon_hyphen_kept": "s i ˧˧ - s a p ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ .",
+   "phon_hyphen_space": "s i ˧˧ ▁ s a p ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ ."
+  },
+  {
+   "id": "47.wav",
+   "text": "ai-van, trợ lý ảo, phản hồi thông minh.",
+   "prep": "ai-van , trợ lý ảo , phản hồi thông minh .",
+   "phon_hyphen_kept": "a j ˧˧ - v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a j ˧˧ ▁ v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "48.wav",
+   "text": "in-voicebot, tạo hóa đơn tự động, xử lý nhanh chóng.",
+   "prep": "in-voicebot , tạo hóa đơn tự động , xử lý nhanh chóng .",
+   "phon_hyphen_kept": "i n ˧˧ - v ɔ j ˧˧ c ɛ ˧˧ b ɔ t ˧˧ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "i n ˧˧ ▁ v ɔ j ˧˧ b ɔ t ˧˧ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "49.wav",
+   "text": "y-sai, hỗ trợ doanh nghiệp, nâng cao hiệu suất.",
+   "prep": "y-sai , hỗ trợ doanh nghiệp , nâng cao hiệu suất .",
+   "phon_hyphen_kept": "i ˧˧ - s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "i ˧˧ ▁ s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "50.wav",
+   "text": "âu-xi-em, quản lý quan hệ khách hàng, tối ưu chăm sóc.",
+   "prep": "âu-xi-em , quản lý quan hệ khách hàng , tối ưu chăm sóc .",
+   "phon_hyphen_kept": "ɤ̆ w ˧˧ - s i ˧˧ - ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k w a n ˧˧ ▁ h e ˨ˀ˩ ʔ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ .",
+   "phon_hyphen_space": "ɤ̆ w ˧˧ ▁ s i ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k w a n ˧˧ ▁ h e ˨ˀ˩ ʔ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ ."
+  },
+  {
+   "id": "51.wav",
+   "text": "ét-em-y, quản lý kế toán, xử lý nghiệp vụ.",
+   "prep": "ét-em-y , quản lý kế toán , xử lý nghiệp vụ .",
+   "phon_hyphen_kept": "ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "52.wav",
+   "text": "we-sai, ký điện tử nhanh, bảo mật cao.",
+   "prep": "we-sai , ký điện tử nhanh , bảo mật cao .",
+   "phon_hyphen_kept": "w ɛ ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ .",
+   "phon_hyphen_space": "w ɛ ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ ."
+  },
+  {
+   "id": "53.wav",
+   "text": "employee cập nhật hồ sơ, quản lý thông tin, thao tác đơn giản.",
+   "prep": "employee cập nhật hồ sơ , quản lý thông tin , thao tác đơn giản .",
+   "phon_hyphen_kept": "ɛ m p l w i ɛ ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ .",
+   "phon_hyphen_space": "ɛ m p l w i ɛ ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ ."
+  },
+  {
+   "id": "54.wav",
+   "text": "a-va admin, cấu hình hệ thống, quản trị dễ dàng.",
+   "prep": "a-va admin , cấu hình hệ thống , quản trị dễ dàng .",
+   "phon_hyphen_kept": "a ˧˧ - v a ˧˧ ▁ a d ˧˧ m i n ˧˧ ▁ , ▁ k ɤ̆ w ˨˦ ▁ h i ŋ ˧˨ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ c i ˨ˀ˩ ʔ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ v a ˧˧ ▁ a d ˧˧ m i n ˧˧ ▁ , ▁ k ɤ̆ w ˨˦ ▁ h i ŋ ˧˨ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ c i ˨ˀ˩ ʔ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "55.wav",
+   "text": "a-mít kho ảnh, lưu trữ hình ảnh, tìm kiếm thuận tiện.",
+   "prep": "a-mít kho ảnh , lưu trữ hình ảnh , tìm kiếm thuận tiện .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h i ŋ ˧˨ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h i ŋ ˧˨ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "56.wav",
+   "text": "a-mít đánh giá, theo dõi năng lực, nâng cao hiệu suất.",
+   "prep": "a-mít đánh giá , theo dõi năng lực , nâng cao hiệu suất .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ l ɯ k ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ l ɯ k ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "57.wav",
+   "text": "a-mít xi-a-em, quản lý khách hàng, chăm sóc hiệu quả.",
+   "prep": "a-mít xi-a-em , quản lý khách hàng , chăm sóc hiệu quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "58.wav",
+   "text": "a-mít we-sign, ký số trực tuyến, bảo mật cao.",
+   "prep": "a-mít we-sign , ký số trực tuyến , bảo mật cao .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ w ɛ ˧˧ - s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ w ɛ ˧˧ ▁ s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ ."
+  },
+  {
+   "id": "59.wav",
+   "text": "a-mít tài sản, kiểm kê nhanh, quản lý hiệu quả.",
+   "prep": "a-mít tài sản , kiểm kê nhanh , quản lý hiệu quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k i ə m ˧˩˨ ▁ k e ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k i ə m ˧˩˨ ▁ k e ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "60.wav",
+   "text": "a-mít văn phòng số, số hóa quy trình, tăng năng suất.",
+   "prep": "a-mít văn phòng số , số hóa quy trình , tăng năng suất .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ă ŋ ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ă ŋ ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "61.wav",
+   "text": "a-mít nhân sự, quản lý hồ sơ, cập nhật tự động.",
+   "prep": "a-mít nhân sự , quản lý hồ sơ , cập nhật tự động .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "62.wav",
+   "text": "a-mít thông báo, gửi thông tin mới, tiếp cận tức thì.",
+   "prep": "a-mít thông báo , gửi thông tin mới , tiếp cận tức thì .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ , ▁ ɣ ɯ j ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ m ɤ j ˨˦ ▁ , ▁ t i ə p ˦˥ ▁ k ɤ̆ n ˨ˀ˩ ʔ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ , ▁ ɣ ɯ j ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ m ɤ j ˨˦ ▁ , ▁ t i ə p ˦˥ ▁ k ɤ̆ n ˨ˀ˩ ʔ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ ."
+  },
+  {
+   "id": "63.wav",
+   "text": "a-mít phòng họp, đặt phòng dễ dàng, quản lý tập trung.",
+   "prep": "a-mít phòng họp , đặt phòng dễ dàng , quản lý tập trung .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ , ▁ d ă t ˨ˀ˩ ▁ f ɔ ŋ͡m ˧˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ f ɔ ŋ͡m ˧˨ ▁ h ɔ p ˨ˀ˩ ▁ , ▁ d ă t ˨ˀ˩ ▁ f ɔ ŋ͡m ˧˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ ."
+  },
+  {
+   "id": "64.wav",
+   "text": "a-mít mua hàng, quản lý nhà cung cấp, tối ưu chi phí.",
+   "prep": "a-mít mua hàng , quản lý nhà cung cấp , tối ưu chi phí .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ k u ŋ͡m ˧˧ ▁ k ɤ̆ p ˦˥ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c i ˧˧ ▁ f i ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ k u ŋ͡m ˧˧ ▁ k ɤ̆ p ˦˥ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c i ˧˧ ▁ f i ˨˦ ▁ ."
+  },
+  {
+   "id": "65.wav",
+   "text": "misa a-va, trợ lý số thông minh, hỗ trợ mọi lúc.",
+   "prep": "misa a-va , trợ lý số thông minh , hỗ trợ mọi lúc .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ a ˧˧ - v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ s o ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ a ˧˧ ▁ v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ s o ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ ."
+  },
+  {
+   "id": "66.wav",
+   "text": "misa âu-xi-em, quản lý khách hàng, tăng hiệu quả bán hàng.",
+   "prep": "misa âu-xi-em , quản lý khách hàng , tăng hiệu quả bán hàng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɤ̆ w ˧˧ - s i ˧˧ - ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t ă ŋ ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɤ̆ w ˧˧ ▁ s i ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t ă ŋ ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "67.wav",
+   "text": "misa ét-em-y, quản lý kế toán, xử lý chứng từ.",
+   "prep": "misa ét-em-y , quản lý kế toán , xử lý chứng từ .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ c ɯ ŋ ˨˦ ▁ t ɯ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ c ɯ ŋ ˨˦ ▁ t ɯ ˧˨ ▁ ."
+  },
+  {
+   "id": "68.wav",
+   "text": "misa ce-gov, phục vụ chính quyền, nâng cao hiệu quả.",
+   "prep": "misa ce-gov , phục vụ chính quyền , nâng cao hiệu quả .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ k ɛ ˧˧ - ɣ ɔ v ˧˧ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c i ŋ ˨˦ ▁ k w i ɛ n ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ k ɛ ˧˧ ▁ ɣ ɔ v ˧˧ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c i ŋ ˨˦ ▁ k w i ɛ n ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "69.wav",
+   "text": "misa hộ tịch, quản lý hồ sơ, tra cứu nhanh chóng.",
+   "prep": "misa hộ tịch , quản lý hồ sơ , tra cứu nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "70.wav",
+   "text": "misa pha-cừn-chấm-nét, xử lý dữ liệu, truy cập linh hoạt.",
+   "prep": "misa pha-cừn-chấm-nét , xử lý dữ liệu , truy cập linh hoạt .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ f a ˧˧ - k ɯ n ˧˨ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ f a ˧˧ ▁ k ɯ n ˧˨ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "71.wav",
+   "text": "misa bamboo-chấm-nét, học tập trực tuyến, tương tác hiệu quả.",
+   "prep": "misa bamboo-chấm-nét , học tập trực tuyến , tương tác hiệu quả .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "72.wav",
+   "text": "misa bumas, quản lý ngân sách, kiểm soát chi tiêu.",
+   "prep": "misa bumas , quản lý ngân sách , kiểm soát chi tiêu .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ ."
+  },
+  {
+   "id": "73.wav",
+   "text": "misa short-link, rút gọn liên kết, chia sẻ tiện lợi.",
+   "prep": "misa short-link , rút gọn liên kết , chia sẻ tiện lợi .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɕ ɔ r t ˧˧ - l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ s ɔ r t ˧˧ ▁ l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "74.wav",
+   "text": "meinvoice, xuất hóa đơn nhanh, quản lý dễ dàng.",
+   "prep": "meinvoice , xuất hóa đơn nhanh , quản lý dễ dàng .",
+   "phon_hyphen_kept": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ s w ɤ̆ t ˦˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ s w ɤ̆ t ˦˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "75.wav",
+   "text": "mi-invoice-chấm-vi-en, hóa đơn điện tử, vận hành ổn định.",
+   "prep": "mi-invoice-chấm-vi-en , hóa đơn điện tử , vận hành ổn định .",
+   "phon_hyphen_kept": "m i ˧˧ - i n ˧˧ v ɔ j ˧˧ - c ɤ̆ m ˨˦ - v i ˧˧ - ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ i n v ˧˧ c ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "76.wav",
+   "text": "mi-mo-sa-chấm-net, truy cập trực tuyến, sử dụng dễ dàng.",
+   "prep": "mi-mo-sa-chấm-net , truy cập trực tuyến , sử dụng dễ dàng .",
+   "phon_hyphen_kept": "m i ˧˧ - m ɔ ˧˧ - s a ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ m ɔ ˧˧ ▁ s a ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "77.wav",
+   "text": "mi-sa-task-go, quản lý nhiệm vụ, cộng tác hiệu quả.",
+   "prep": "mi-sa-task-go , quản lý nhiệm vụ , cộng tác hiệu quả .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - t a s k ˧˧ - ɣ ɔ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ i ə m ˨ˀ˩ ʔ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ t a s k ˧˧ ▁ ɣ ɔ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ i ə m ˨ˀ˩ ʔ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "78.wav",
+   "text": "mi-sa-ét-em-y-chấm-net, kế toán trực tuyến, thao tác nhanh.",
+   "prep": "mi-sa-ét-em-y-chấm-net , kế toán trực tuyến , thao tác nhanh .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "79.wav",
+   "text": "in voi bót, tạo hóa đơn tự động, giảm thao tác.",
+   "prep": "in voi bót , tạo hóa đơn tự động , giảm thao tác .",
+   "phon_hyphen_kept": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ .",
+   "phon_hyphen_space": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ ."
+  },
+  {
+   "id": "80.wav",
+   "text": "jetpay, thanh toán trực tuyến, xử lý tức thì.",
+   "prep": "jetpay , thanh toán trực tuyến , xử lý tức thì .",
+   "phon_hyphen_kept": "z ɛ t ˧ p ă j ˧˧ ▁ , ▁ tʰ ɛ ŋ ˧˧ ▁ t w a n ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ .",
+   "phon_hyphen_space": "z ɛ t ˧ p ă j ˧˧ ▁ , ▁ tʰ ɛ ŋ ˧˧ ▁ t w a n ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ ."
+  },
+  {
+   "id": "81.wav",
+   "text": "le-ki-ma, nền tảng quản lý, hỗ trợ doanh nghiệp.",
+   "prep": "le-ki-ma , nền tảng quản lý , hỗ trợ doanh nghiệp .",
+   "phon_hyphen_kept": "l ɛ ˧˧ - k i ˧˧ - m a ˧˧ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "l ɛ ˧˧ ▁ k i ˧˧ ▁ m a ˧˧ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "82.wav",
+   "text": "xi-gov, phục vụ cơ quan nhà nước, quản lý hiệu quả.",
+   "prep": "xi-gov , phục vụ cơ quan nhà nước , quản lý hiệu quả .",
+   "phon_hyphen_kept": "s i ˧˧ - ɣ ɔ v ˧˧ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ k ɤ ˧˧ ▁ k w a n ˧˧ ▁ ɲ a ˧˨ ▁ n ɯ ə k ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "s i ˧˧ ▁ ɣ ɔ v ˧˧ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ k ɤ ˧˧ ▁ k w a n ˧˧ ▁ ɲ a ˧˨ ▁ n ɯ ə k ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "83.wav",
+   "text": "a-mít mạng xã hội, kết nối đồng nghiệp, chia sẻ dễ dàng.",
+   "prep": "a-mít mạng xã hội , kết nối đồng nghiệp , chia sẻ dễ dàng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ d o ŋ͡m ˧˨ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ m a ŋ ˨ˀ˩ ʔ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ d o ŋ͡m ˧˨ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "84.wav",
+   "text": "a-mít nhân sự, lưu trữ hồ sơ, tra cứu thuận tiện.",
+   "prep": "a-mít nhân sự , lưu trữ hồ sơ , tra cứu thuận tiện .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "85.wav",
+   "text": "a-mít chấm công, ghi nhận thời gian, tính lương chính xác.",
+   "prep": "a-mít chấm công , ghi nhận thời gian , tính lương chính xác .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ , ▁ ɣ i ˧˧ ▁ ɲ ɤ̆ n ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ , ▁ t i ŋ ˨˦ ▁ l ɯ ə ŋ ˧˧ ▁ c i ŋ ˨˦ ▁ s a k ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ c ɤ̆ m ˨˦ ▁ k o ŋ͡m ˧˧ ▁ , ▁ ɣ i ˧˧ ▁ ɲ ɤ̆ n ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ , ▁ t i ŋ ˨˦ ▁ l ɯ ə ŋ ˧˧ ▁ c i ŋ ˨˦ ▁ s a k ˦˥ ▁ ."
+  },
+  {
+   "id": "86.wav",
+   "text": "a-mít mua hàng, kiểm soát đơn hàng, tối ưu chi phí.",
+   "prep": "a-mít mua hàng , kiểm soát đơn hàng , tối ưu chi phí .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ d ɤ n ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c i ˧˧ ▁ f i ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ m u ə ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ d ɤ n ˧˧ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ c i ˧˧ ▁ f i ˨˦ ▁ ."
+  },
+  {
+   "id": "87.wav",
+   "text": "a-mít công việc, giao việc linh hoạt, theo dõi tiến độ.",
+   "prep": "a-mít công việc , giao việc linh hoạt , theo dõi tiến độ .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ z a w ˧˧ ▁ v i ə k ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ z a w ˧˧ ▁ v i ə k ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "88.wav",
+   "text": "a-mít ghi chép, lưu ý quan trọng, tìm kiếm dễ dàng.",
+   "prep": "a-mít ghi chép , lưu ý quan trọng , tìm kiếm dễ dàng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ l ɯ w ˧˧ ▁ i ˨˦ ▁ k w a n ˧˧ ▁ c ɔ ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ l ɯ w ˧˧ ▁ i ˨˦ ▁ k w a n ˧˧ ▁ c ɔ ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "89.wav",
+   "text": "a-mít hệ thống, cấu hình dễ dàng, vận hành ổn định.",
+   "prep": "a-mít hệ thống , cấu hình dễ dàng , vận hành ổn định .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ , ▁ k ɤ̆ w ˨˦ ▁ h i ŋ ˧˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ , ▁ k ɤ̆ w ˨˦ ▁ h i ŋ ˧˨ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "90.wav",
+   "text": "a-mít kho ảnh, lưu trữ hình ảnh, chia sẻ thuận tiện.",
+   "prep": "a-mít kho ảnh , lưu trữ hình ảnh , chia sẻ thuận tiện .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h i ŋ ˧˨ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h i ŋ ˧˨ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "91.wav",
+   "text": "a-mít quy trình, tự động hóa nghiệp vụ, giảm thao tác.",
+   "prep": "a-mít quy trình , tự động hóa nghiệp vụ , giảm thao tác .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ ."
+  },
+  {
+   "id": "92.wav",
+   "text": "a-mít thông tin nhân sự, cập nhật hồ sơ, tra cứu nhanh.",
+   "prep": "a-mít thông tin nhân sự , cập nhật hồ sơ , tra cứu nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "93.wav",
+   "text": "a-mít văn thư, quản lý công văn, xử lý hiệu quả.",
+   "prep": "a-mít văn thư , quản lý công văn , xử lý hiệu quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "94.wav",
+   "text": "a-mít bảo hiểm xã hội, kê khai trực tuyến, tiết kiệm thời gian.",
+   "prep": "a-mít bảo hiểm xã hội , kê khai trực tuyến , tiết kiệm thời gian .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ ."
+  },
+  {
+   "id": "95.wav",
+   "text": "a-mít kế toán hộ kinh doanh, quản lý doanh thu, theo dõi chi phí.",
+   "prep": "a-mít kế toán hộ kinh doanh , quản lý doanh thu , theo dõi chi phí .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ ."
+  },
+  {
+   "id": "96.wav",
+   "text": "a-mít thuế thu nhập cá nhân, kê khai dễ dàng, xử lý nhanh.",
+   "prep": "a-mít thuế thu nhập cá nhân , kê khai dễ dàng , xử lý nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ w e ˨˦ ▁ tʰ u ˧˧ ▁ ɲ ɤ̆ p ˨ˀ˩ ▁ k a ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "97.wav",
+   "text": "a-mít văn phòng số, số hóa quy trình, nâng cao năng suất.",
+   "prep": "a-mít văn phòng số , số hóa quy trình , nâng cao năng suất .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "98.wav",
+   "text": "a-mít we-sign, ký số trực tuyến, bảo mật an toàn.",
+   "prep": "a-mít we-sign , ký số trực tuyến , bảo mật an toàn .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ w ɛ ˧˧ - s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ w ɛ ˧˧ ▁ s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ ."
+  },
+  {
+   "id": "99.wav",
+   "text": "a-mít điều hành, theo dõi hoạt động, ra quyết định nhanh.",
+   "prep": "a-mít điều hành , theo dõi hoạt động , ra quyết định nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ h w a t ˨ˀ˩ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ h w a t ˨ˀ˩ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "100.wav",
+   "text": "misa a-va, trợ lý số thông minh, hỗ trợ doanh nghiệp.",
+   "prep": "misa a-va , trợ lý số thông minh , hỗ trợ doanh nghiệp .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ a ˧˧ - v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ s o ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ a ˧˧ ▁ v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ s o ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "101.wav",
+   "text": "misa bamboo-chấm-nét, học trực tuyến hiệu quả, tương tác dễ dàng.",
+   "prep": "misa bamboo-chấm-nét , học trực tuyến hiệu quả , tương tác dễ dàng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "102.wav",
+   "text": "misa bumas, quản lý ngân sách, kiểm soát chi tiêu.",
+   "prep": "misa bumas , quản lý ngân sách , kiểm soát chi tiêu .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ ."
+  },
+  {
+   "id": "103.wav",
+   "text": "misa e-shop, bán hàng đa kênh, tăng trưởng doanh thu.",
+   "prep": "misa e-shop , bán hàng đa kênh , tăng trưởng doanh thu .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɛ ˧˧ - ʂ ɔ p ˧˧ ▁ , ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ d a ˧˧ ▁ k e ŋ ˧˧ ▁ , ▁ t ă ŋ ˧˧ ▁ c ɯ ə ŋ ˧˩˨ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɛ ˧˧ ▁ s ɔ p ˧˧ ▁ , ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ d a ˧˧ ▁ k e ŋ ˧˧ ▁ , ▁ t ă ŋ ˧˧ ▁ c ɯ ə ŋ ˧˩˨ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ ."
+  },
+  {
+   "id": "104.wav",
+   "text": "misa emis, quản lý giáo dục, kết nối phụ huynh.",
+   "prep": "misa emis , quản lý giáo dục , kết nối phụ huynh .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɛ m i s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˨˦ ▁ z u k͡p ˨ˀ˩ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ f u ˨ˀ˩ ʔ ▁ h w i ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɛ m i s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˨˦ ▁ z u k͡p ˨ˀ˩ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ f u ˨ˀ˩ ʔ ▁ h w i ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "105.wav",
+   "text": "misa hộ tịch, lưu trữ hồ sơ, tra cứu nhanh chóng.",
+   "prep": "misa hộ tịch , lưu trữ hồ sơ , tra cứu nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "106.wav",
+   "text": "misa pha-cừn-chấm-nét, truy cập dữ liệu, làm việc mọi nơi.",
+   "prep": "misa pha-cừn-chấm-nét , truy cập dữ liệu , làm việc mọi nơi .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ f a ˧˧ - k ɯ n ˧˨ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ m ɔ j ˨ˀ˩ ʔ ▁ n ɤ j ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ f a ˧˧ ▁ k ɯ n ˧˨ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ m ɔ j ˨ˀ˩ ʔ ▁ n ɤ j ˧˧ ▁ ."
+  },
+  {
+   "id": "107.wav",
+   "text": "misa short-link, rút gọn liên kết, chia sẻ tiện lợi.",
+   "prep": "misa short-link , rút gọn liên kết , chia sẻ tiện lợi .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɕ ɔ r t ˧˧ - l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ s ɔ r t ˧˧ ▁ l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "108.wav",
+   "text": "misa ây-ét-pi, tích hợp dữ liệu, đồng bộ nhanh chóng.",
+   "prep": "misa ây-ét-pi , tích hợp dữ liệu , đồng bộ nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɤ̆ j ˧˧ - ɛ t ˦˥ - p i ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɤ̆ j ˧˧ ▁ ɛ t ˦˥ ▁ p i ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "109.wav",
+   "text": "mi-sa-ét-em-y-chấm-net, kế toán online, thao tác thuận tiện.",
+   "prep": "mi-sa-ét-em-y-chấm-net , kế toán online , thao tác thuận tiện .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "110.wav",
+   "text": "mi-mo-sa-chấm-net-ích-1, nâng cấp tính năng, vận hành ổn định.",
+   "prep": "mi-mo-sa-chấm-net-ích-1 , nâng cấp tính năng , vận hành ổn định .",
+   "phon_hyphen_kept": "m i ˧˧ - m ɔ ˧˧ - s a ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ - i k ˦˥ - d ˧˧ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k ɤ̆ p ˦˥ ▁ t i ŋ ˨˦ ▁ n ă ŋ ˧˧ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ m ɔ ˧˧ ▁ s a ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ i k ˦˥ ▁ ɛ ˧˧ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k ɤ̆ p ˦˥ ▁ t i ŋ ˨˦ ▁ n ă ŋ ˧˧ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "111.wav",
+   "text": "meinvoice chấm vi-en, lưu trữ an toàn, tra cứu dễ dàng.",
+   "prep": "meinvoice chấm vi-en , lưu trữ an toàn , tra cứu dễ dàng .",
+   "phon_hyphen_kept": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ - ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "112.wav",
+   "text": "in voi bót, tạo hóa đơn tự động, giảm thao tác.",
+   "prep": "in voi bót , tạo hóa đơn tự động , giảm thao tác .",
+   "phon_hyphen_kept": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ .",
+   "phon_hyphen_space": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ ."
+  },
+  {
+   "id": "113.wav",
+   "text": "ai-van, trợ lý ảo thông minh, phản hồi tự nhiên.",
+   "prep": "ai-van , trợ lý ảo thông minh , phản hồi tự nhiên .",
+   "phon_hyphen_kept": "a j ˧˧ - v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ t ɯ ˨ˀ˩ ʔ ▁ ɲ i ə n ˧˧ ▁ .",
+   "phon_hyphen_space": "a j ˧˧ ▁ v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ t ɯ ˨ˀ˩ ʔ ▁ ɲ i ə n ˧˧ ▁ ."
+  },
+  {
+   "id": "114.wav",
+   "text": "ivan, kết nối bảo hiểm xã hội, xử lý hồ sơ.",
+   "prep": "ivan , kết nối bảo hiểm xã hội , xử lý hồ sơ .",
+   "phon_hyphen_kept": "i v a n ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ .",
+   "phon_hyphen_space": "i v a n ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ ."
+  },
+  {
+   "id": "115.wav",
+   "text": "bamboo, học trực tuyến tiện lợi, tương tác hiệu quả.",
+   "prep": "bamboo , học trực tuyến tiện lợi , tương tác hiệu quả .",
+   "phon_hyphen_kept": "b a m b ɔ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "b a m b ɔ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "116.wav",
+   "text": "em-shop keeper, quản lý cửa hàng, theo dõi doanh thu.",
+   "prep": "em-shop keeper , quản lý cửa hàng , theo dõi doanh thu .",
+   "phon_hyphen_kept": "ɛ m ˧˧ - ʂ ɔ p ˧˧ ▁ k i p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ .",
+   "phon_hyphen_space": "ɛ m ˧˧ ▁ s ɔ p ˧˧ ▁ k i p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ ."
+  },
+  {
+   "id": "117.wav",
+   "text": "em-tax, kê khai thuế, giảm thời gian xử lý.",
+   "prep": "em-tax , kê khai thuế , giảm thời gian xử lý .",
+   "phon_hyphen_kept": "ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ , ▁ z a m ˧˩˨ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ .",
+   "phon_hyphen_space": "ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ , ▁ z a m ˧˩˨ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ."
+  },
+  {
+   "id": "118.wav",
+   "text": "gi-ét-si, theo dõi thu chi, quản lý hóa đơn.",
+   "prep": "gi-ét-si , theo dõi thu chi , quản lý hóa đơn .",
+   "phon_hyphen_kept": "z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ .",
+   "phon_hyphen_space": "z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ."
+  },
+  {
+   "id": "119.wav",
+   "text": "gotadi, đặt vé nhanh chóng, quản lý chuyến đi.",
+   "prep": "gotadi , đặt vé nhanh chóng , quản lý chuyến đi .",
+   "phon_hyphen_kept": "ɣ ɔ t ˈa z i ˧˧ ▁ , ▁ d ă t ˨ˀ˩ ▁ v ɛ ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c w i ə n ˨˦ ▁ d i ˧˧ ▁ .",
+   "phon_hyphen_space": "ɣ ɔ t ˈa z i ˧˧ ▁ , ▁ d ă t ˨ˀ˩ ▁ v ɛ ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c w i ə n ˨˦ ▁ d i ˧˧ ▁ ."
+  },
+  {
+   "id": "120.wav",
+   "text": "hắt-rờ-mờ, quản lý nhân sự, xử lý dữ liệu.",
+   "prep": "hắt-rờ-mờ , quản lý nhân sự , xử lý dữ liệu .",
+   "phon_hyphen_kept": "h ă t ˦˥ - z ɤ ˧˨ - m ɤ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "h ă t ˦˥ ▁ z ɤ ˧˨ ▁ m ɤ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "121.wav",
+   "text": "lending, quản lý khoản vay, theo dõi dễ dàng.",
+   "prep": "lending , quản lý khoản vay , theo dõi dễ dàng .",
+   "phon_hyphen_kept": "l ɛ n ˧˧ i ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x w a n ˧˩˨ ▁ v ă j ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "l ɛ n ˧˧ i ŋ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x w a n ˧˩˨ ▁ v ă j ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "122.wav",
+   "text": "pha-cừn-chấm-net, xử lý dữ liệu, truy cập linh hoạt.",
+   "prep": "pha-cừn-chấm-net , xử lý dữ liệu , truy cập linh hoạt .",
+   "phon_hyphen_kept": "f a ˧˧ - k ɯ n ˧˨ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "f a ˧˧ ▁ k ɯ n ˧˨ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "123.wav",
+   "text": "res-tab, quản lý nhà hàng, phục vụ chuyên nghiệp.",
+   "prep": "res-tab , quản lý nhà hàng , phục vụ chuyên nghiệp .",
+   "phon_hyphen_kept": "z ɛ s ˧˧ - t a b ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "z ɛ s ˧˧ ▁ t a b ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "124.wav",
+   "text": "salagov, chuyển đổi số, nâng cao hiệu quả quản lý.",
+   "prep": "salagov , chuyển đổi số , nâng cao hiệu quả quản lý .",
+   "phon_hyphen_kept": "s a l a ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ .",
+   "phon_hyphen_space": "s a l a ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ."
+  },
+  {
+   "id": "125.wav",
+   "text": "we-sai, ký điện tử nhanh, bảo mật cao.",
+   "prep": "we-sai , ký điện tử nhanh , bảo mật cao .",
+   "phon_hyphen_kept": "w ɛ ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ .",
+   "phon_hyphen_space": "w ɛ ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ k a w ˧˧ ▁ ."
+  },
+  {
+   "id": "126.wav",
+   "text": "xi-a-em, quản lý khách hàng, chăm sóc chuyên nghiệp.",
+   "prep": "xi-a-em , quản lý khách hàng , chăm sóc chuyên nghiệp .",
+   "phon_hyphen_kept": "s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ c w i ə n ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "127.wav",
+   "text": "xi-a-em bình điền, tối ưu bán hàng, nâng cao dịch vụ.",
+   "prep": "xi-a-em bình điền , tối ưu bán hàng , nâng cao dịch vụ .",
+   "phon_hyphen_kept": "s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ b i ŋ ˧˨ ▁ d i ə n ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ b i ŋ ˧˨ ▁ d i ə n ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "128.wav",
+   "text": "y-sai, hỗ trợ doanh nghiệp, nâng cao năng suất.",
+   "prep": "y-sai , hỗ trợ doanh nghiệp , nâng cao năng suất .",
+   "phon_hyphen_kept": "i ˧˧ - s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "i ˧˧ ▁ s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "129.wav",
+   "text": "ây-ai-marketing, phân tích hành vi, tối ưu quảng cáo.",
+   "prep": "ây-ai-marketing , phân tích hành vi , tối ưu quảng cáo .",
+   "phon_hyphen_kept": "ɤ̆ j ˧˧ - a j ˧˧ - m ă r k ˧˧ t i ŋ ˧˧ ▁ , ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ h ɛ ŋ ˧˨ ▁ v i ˧˧ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ k w a ŋ ˧˩˨ ▁ k a w ˨˦ ▁ .",
+   "phon_hyphen_space": "ɤ̆ j ˧˧ ▁ a j ˧˧ ▁ m ˧˧ k e t ˈi ŋ ˧˧ ▁ , ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ h ɛ ŋ ˧˨ ▁ v i ˧˧ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ k w a ŋ ˧˩˨ ▁ k a w ˨˦ ▁ ."
+  },
+  {
+   "id": "130.wav",
+   "text": "ây-ét-pi, đồng bộ dữ liệu, xử lý nhanh chóng.",
+   "prep": "ây-ét-pi , đồng bộ dữ liệu , xử lý nhanh chóng .",
+   "phon_hyphen_kept": "ɤ̆ j ˧˧ - ɛ t ˦˥ - p i ˧˧ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "ɤ̆ j ˧˧ ▁ ɛ t ˦˥ ▁ p i ˧˧ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "131.wav",
+   "text": "ét-em-y, quản lý kế toán, xử lý nghiệp vụ.",
+   "prep": "ét-em-y , quản lý kế toán , xử lý nghiệp vụ .",
+   "phon_hyphen_kept": "ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "132.wav",
+   "text": "mi-sa-sa-la-gov, chuyển đổi số, nâng cao hiệu quả.",
+   "prep": "mi-sa-sa-la-gov , chuyển đổi số , nâng cao hiệu quả .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - s a ˧˧ - l a ˧˧ - ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ s a ˧˧ ▁ l a ˧˧ ▁ ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "133.wav",
+   "text": "thiết bị được quản lý tập trung, theo dõi trạng thái.",
+   "prep": "thiết bị được quản lý tập trung , theo dõi trạng thái .",
+   "phon_hyphen_kept": "tʰ i ə t ˦˥ ▁ b i ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c a ŋ ˨ˀ˩ ʔ ▁ tʰ a j ˨˦ ▁ .",
+   "phon_hyphen_space": "tʰ i ə t ˦˥ ▁ b i ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c a ŋ ˨ˀ˩ ʔ ▁ tʰ a j ˨˦ ▁ ."
+  },
+  {
+   "id": "134.wav",
+   "text": "thông tin nhân sự được cập nhật, tra cứu dễ dàng.",
+   "prep": "thông tin nhân sự được cập nhật , tra cứu dễ dàng .",
+   "phon_hyphen_kept": "tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "135.wav",
+   "text": "a-mít kế toán, xử lý hóa đơn, quản lý hiệu quả.",
+   "prep": "a-mít kế toán , xử lý hóa đơn , quản lý hiệu quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "136.wav",
+   "text": "a-mít ghi chép, lưu trữ thông tin, tìm kiếm nhanh.",
+   "prep": "a-mít ghi chép , lưu trữ thông tin , tìm kiếm nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ ɣ i ˧˧ ▁ c ɛ p ˦˥ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ t i m ˧˨ ▁ k i ə m ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "137.wav",
+   "text": "a-mít mục tiêu, theo dõi tiến độ, đánh giá kết quả.",
+   "prep": "a-mít mục tiêu , theo dõi tiến độ , đánh giá kết quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ m u k͡p ˨ˀ˩ ▁ t i ə w ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ , ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ k e t ˦˥ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ m u k͡p ˨ˀ˩ ▁ t i ə w ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ t i ə n ˨˦ ▁ d o ˨ˀ˩ ʔ ▁ , ▁ d ɛ ŋ ˨˦ ▁ z a ˨˦ ▁ k e t ˦˥ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "138.wav",
+   "text": "a-mít khuyến mại, tạo ưu đãi mới, tăng doanh thu.",
+   "prep": "a-mít khuyến mại , tạo ưu đãi mới , tăng doanh thu .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ ɯ w ˧˧ ▁ d a j ˧ˀ˥ ▁ m ɤ j ˨˦ ▁ , ▁ t ă ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ x w i ə n ˨˦ ▁ m a j ˨ˀ˩ ʔ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ ɯ w ˧˧ ▁ d a j ˧ˀ˥ ▁ m ɤ j ˨˦ ▁ , ▁ t ă ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ tʰ u ˧˧ ▁ ."
+  },
+  {
+   "id": "139.wav",
+   "text": "a-mít văn thư, xử lý công văn, lưu trữ an toàn.",
+   "prep": "a-mít văn thư , xử lý công văn , lưu trữ an toàn .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ ."
+  },
+  {
+   "id": "140.wav",
+   "text": "a-mít tài sản, kiểm kê định kỳ, quản lý tập trung.",
+   "prep": "a-mít tài sản , kiểm kê định kỳ , quản lý tập trung .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k i ə m ˧˩˨ ▁ k e ˧˧ ▁ d i ŋ ˨ˀ˩ ʔ ▁ k i ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ t a j ˧˨ ▁ s a n ˧˩˨ ▁ , ▁ k i ə m ˧˩˨ ▁ k e ˧˧ ▁ d i ŋ ˨ˀ˩ ʔ ▁ k i ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ ."
+  },
+  {
+   "id": "141.wav",
+   "text": "a-mít điều hành, theo dõi hoạt động, ra quyết định.",
+   "prep": "a-mít điều hành , theo dõi hoạt động , ra quyết định .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ h w a t ˨ˀ˩ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ d i ə w ˧˨ ▁ h ɛ ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ h w a t ˨ˀ˩ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "142.wav",
+   "text": "a-mít thông báo, gửi tin tức mới, cập nhật tức thì.",
+   "prep": "a-mít thông báo , gửi tin tức mới , cập nhật tức thì .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ , ▁ ɣ ɯ j ˧˩˨ ▁ t i n ˧˧ ▁ t ɯ k ˦˥ ▁ m ɤ j ˨˦ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ , ▁ ɣ ɯ j ˧˩˨ ▁ t i n ˧˧ ▁ t ɯ k ˦˥ ▁ m ɤ j ˨˦ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ t ɯ k ˦˥ ▁ tʰ i ˧˨ ▁ ."
+  },
+  {
+   "id": "143.wav",
+   "text": "a-mít thông tin nhân sự, quản lý dữ liệu, tra cứu nhanh.",
+   "prep": "a-mít thông tin nhân sự , quản lý dữ liệu , tra cứu nhanh .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "144.wav",
+   "text": "a-mít quy trình, tự động hóa công việc, tiết kiệm thời gian.",
+   "prep": "a-mít quy trình , tự động hóa công việc , tiết kiệm thời gian .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ ."
+  },
+  {
+   "id": "145.wav",
+   "text": "a-mít kho ảnh, lưu ảnh sự kiện, chia sẻ nội bộ.",
+   "prep": "a-mít kho ảnh , lưu ảnh sự kiện , chia sẻ nội bộ .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ s ɯ ˨ˀ˩ ʔ ▁ k i ə n ˨ˀ˩ ʔ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ n o j ˨ˀ˩ ʔ ▁ b o ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ x ɔ ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ , ▁ l ɯ w ˧˧ ▁ ɛ ŋ ˧˩˨ ▁ s ɯ ˨ˀ˩ ʔ ▁ k i ə n ˨ˀ˩ ʔ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ n o j ˨ˀ˩ ʔ ▁ b o ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "146.wav",
+   "text": "a-mít văn phòng số, làm việc từ xa, cộng tác hiệu quả.",
+   "prep": "a-mít văn phòng số , làm việc từ xa , cộng tác hiệu quả .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ t ɯ ˧˨ ▁ s a ˧˧ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ t ɯ ˧˨ ▁ s a ˧˧ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "147.wav",
+   "text": "a-mít we-sign, ký số tài liệu, bảo mật an toàn.",
+   "prep": "a-mít we-sign , ký số tài liệu , bảo mật an toàn .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ w ɛ ˧˧ - s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ w ɛ ˧˧ ▁ s i ɣ n ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ ."
+  },
+  {
+   "id": "148.wav",
+   "text": "a-va admin, quản lý tài khoản, phân quyền linh hoạt.",
+   "prep": "a-va admin , quản lý tài khoản , phân quyền linh hoạt .",
+   "phon_hyphen_kept": "a ˧˧ - v a ˧˧ ▁ a d ˧˧ m i n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ x w a n ˧˩˨ ▁ , ▁ f ɤ̆ n ˧˧ ▁ k w i ɛ n ˧˨ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ v a ˧˧ ▁ a d ˧˧ m i n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ x w a n ˧˩˨ ▁ , ▁ f ɤ̆ n ˧˧ ▁ k w i ɛ n ˧˨ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "149.wav",
+   "text": "misa a-va, trợ lý thông minh, hỗ trợ mọi lúc.",
+   "prep": "misa a-va , trợ lý thông minh , hỗ trợ mọi lúc .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ a ˧˧ - v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ a ˧˧ ▁ v a ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ ."
+  },
+  {
+   "id": "150.wav",
+   "text": "misa bumas, quản lý ngân sách, theo dõi chi tiêu.",
+   "prep": "misa bumas , quản lý ngân sách , theo dõi chi tiêu .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ ."
+  },
+  {
+   "id": "151.wav",
+   "text": "misa emis, quản lý giáo dục, kết nối phụ huynh.",
+   "prep": "misa emis , quản lý giáo dục , kết nối phụ huynh .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɛ m i s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˨˦ ▁ z u k͡p ˨ˀ˩ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ f u ˨ˀ˩ ʔ ▁ h w i ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɛ m i s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˨˦ ▁ z u k͡p ˨ˀ˩ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ f u ˨ˀ˩ ʔ ▁ h w i ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "152.wav",
+   "text": "misa short-link, rút gọn liên kết, chia sẻ thuận tiện.",
+   "prep": "misa short-link , rút gọn liên kết , chia sẻ thuận tiện .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɕ ɔ r t ˧˧ - l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ s ɔ r t ˧˧ ▁ l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "153.wav",
+   "text": "misa bamboo-chấm-nét, học trực tuyến hiệu quả, tương tác dễ dàng.",
+   "prep": "misa bamboo-chấm-nét , học trực tuyến hiệu quả , tương tác dễ dàng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ b a m b ɔ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "154.wav",
+   "text": "misa hộ tịch, lưu trữ hồ sơ, tra cứu nhanh chóng.",
+   "prep": "misa hộ tịch , lưu trữ hồ sơ , tra cứu nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ h o ˨ˀ˩ ʔ ▁ t i k ˨ˀ˩ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "155.wav",
+   "text": "misa pha-cừn-chấm-nét, xử lý dữ liệu, truy cập linh hoạt.",
+   "prep": "misa pha-cừn-chấm-nét , xử lý dữ liệu , truy cập linh hoạt .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ f a ˧˧ - k ɯ n ˧˨ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ f a ˧˧ ▁ k ɯ n ˧˨ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "156.wav",
+   "text": "misa âu-xi-em, quản lý khách hàng, nâng cao hiệu quả.",
+   "prep": "misa âu-xi-em , quản lý khách hàng , nâng cao hiệu quả .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɤ̆ w ˧˧ - s i ˧˧ - ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɤ̆ w ˧˧ ▁ s i ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "157.wav",
+   "text": "misa ây-ét-pi, đồng bộ dữ liệu, kết nối nhanh chóng.",
+   "prep": "misa ây-ét-pi , đồng bộ dữ liệu , kết nối nhanh chóng .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɤ̆ j ˧˧ - ɛ t ˦˥ - p i ˧˧ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɤ̆ j ˧˧ ▁ ɛ t ˦˥ ▁ p i ˧˧ ▁ , ▁ d o ŋ͡m ˧˨ ▁ b o ˨ˀ˩ ʔ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "158.wav",
+   "text": "misa ét-em-y, quản lý kế toán, xử lý chứng từ.",
+   "prep": "misa ét-em-y , quản lý kế toán , xử lý chứng từ .",
+   "phon_hyphen_kept": "m i s a ˧˧ ▁ ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ c ɯ ŋ ˨˦ ▁ t ɯ ˧˨ ▁ .",
+   "phon_hyphen_space": "m i s a ˧˧ ▁ ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ c ɯ ŋ ˨˦ ▁ t ɯ ˧˨ ▁ ."
+  },
+  {
+   "id": "159.wav",
+   "text": "mi-sa-task-go, giao việc linh hoạt, cộng tác hiệu quả.",
+   "prep": "mi-sa-task-go , giao việc linh hoạt , cộng tác hiệu quả .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - t a s k ˧˧ - ɣ ɔ ˧˧ ▁ , ▁ z a w ˧˧ ▁ v i ə k ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ t a s k ˧˧ ▁ ɣ ɔ ˧˧ ▁ , ▁ z a w ˧˧ ▁ v i ə k ˨ˀ˩ ▁ l i ŋ ˧˧ ▁ h w a t ˨ˀ˩ ▁ , ▁ k o ŋ͡m ˨ˀ˩ ʔ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "160.wav",
+   "text": "mi-sa-ét-em-y-chấm-net, kế toán online, thao tác đơn giản.",
+   "prep": "mi-sa-ét-em-y-chấm-net , kế toán online , thao tác đơn giản .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ ɔ n ˧˧ l i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ ."
+  },
+  {
+   "id": "161.wav",
+   "text": "mi-mo-sa, quản lý ngân sách, xử lý nghiệp vụ.",
+   "prep": "mi-mo-sa , quản lý ngân sách , xử lý nghiệp vụ .",
+   "phon_hyphen_kept": "m i ˧˧ - m ɔ ˧˧ - s a ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ m ɔ ˧˧ ▁ s a ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "162.wav",
+   "text": "meinvoice, xuất hóa đơn điện tử, quản lý dễ dàng.",
+   "prep": "meinvoice , xuất hóa đơn điện tử , quản lý dễ dàng .",
+   "phon_hyphen_kept": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ s w ɤ̆ t ˦˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ , ▁ s w ɤ̆ t ˦˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "163.wav",
+   "text": "meinvoice chấm vi-en, lưu trữ hóa đơn, tra cứu nhanh.",
+   "prep": "meinvoice chấm vi-en , lưu trữ hóa đơn , tra cứu nhanh .",
+   "phon_hyphen_kept": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ - ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "m e i n ˧˧ v ɔ j ˧˧ k ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "164.wav",
+   "text": "mi-invoice-chấm-vi-en, hóa đơn điện tử, vận hành ổn định.",
+   "prep": "mi-invoice-chấm-vi-en , hóa đơn điện tử , vận hành ổn định .",
+   "phon_hyphen_kept": "m i ˧˧ - i n ˧˧ v ɔ j ˧˧ - c ɤ̆ m ˨˦ - v i ˧˧ - ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ i n v ˧˧ c ɛ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ v ɤ̆ n ˨ˀ˩ ʔ ▁ h ɛ ŋ ˧˨ ▁ o n ˧˩˨ ▁ d i ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "165.wav",
+   "text": "in voi bót, tạo hóa đơn tự động, giảm thao tác thủ công.",
+   "prep": "in voi bót , tạo hóa đơn tự động , giảm thao tác thủ công .",
+   "phon_hyphen_kept": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ u ˧˩˨ ▁ k o ŋ͡m ˧˧ ▁ .",
+   "phon_hyphen_space": "i n ˧˧ ▁ v ɔ j ˧˧ ▁ b ɔ t ˦˥ ▁ , ▁ t a w ˨ˀ˩ ʔ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ t ɯ ˨ˀ˩ ʔ ▁ d o ŋ͡m ˨ˀ˩ ʔ ▁ , ▁ z a m ˧˩˨ ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ u ˧˩˨ ▁ k o ŋ͡m ˧˧ ▁ ."
+  },
+  {
+   "id": "166.wav",
+   "text": "in-voicebot, xử lý hóa đơn nhanh, tiết kiệm thời gian.",
+   "prep": "in-voicebot , xử lý hóa đơn nhanh , tiết kiệm thời gian .",
+   "phon_hyphen_kept": "i n ˧˧ - v ɔ j ˧˧ c ɛ ˧˧ b ɔ t ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ .",
+   "phon_hyphen_space": "i n ˧˧ ▁ v ɔ j ˧˧ b ɔ t ˧˧ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ ."
+  },
+  {
+   "id": "167.wav",
+   "text": "ai-van, trợ lý ảo thông minh, phản hồi tự nhiên.",
+   "prep": "ai-van , trợ lý ảo thông minh , phản hồi tự nhiên .",
+   "phon_hyphen_kept": "a j ˧˧ - v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ t ɯ ˨ˀ˩ ʔ ▁ ɲ i ə n ˧˧ ▁ .",
+   "phon_hyphen_space": "a j ˧˧ ▁ v a n ˧˧ ▁ , ▁ c ɤ ˨ˀ˩ ʔ ▁ l i ˨˦ ▁ a w ˧˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ m i ŋ ˧˧ ▁ , ▁ f a n ˧˩˨ ▁ h o j ˧˨ ▁ t ɯ ˨ˀ˩ ʔ ▁ ɲ i ə n ˧˧ ▁ ."
+  },
+  {
+   "id": "168.wav",
+   "text": "ivan, kết nối bảo hiểm xã hội, xử lý hồ sơ nhanh.",
+   "prep": "ivan , kết nối bảo hiểm xã hội , xử lý hồ sơ nhanh .",
+   "phon_hyphen_kept": "i v a n ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "i v a n ˧˧ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ b a w ˧˩˨ ▁ h i ə m ˧˩˨ ▁ s a ˧ˀ˥ ▁ h o j ˨ˀ˩ ʔ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "169.wav",
+   "text": "bamboo, học tập trực tuyến, nâng cao kỹ năng.",
+   "prep": "bamboo , học tập trực tuyến , nâng cao kỹ năng .",
+   "phon_hyphen_kept": "b a m b ɔ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ k i ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "b a m b ɔ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ t ɤ̆ p ˨ˀ˩ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ k i ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "170.wav",
+   "text": "bamboo-chấm-net, đào tạo nội bộ, tương tác hiệu quả.",
+   "prep": "bamboo-chấm-net , đào tạo nội bộ , tương tác hiệu quả .",
+   "phon_hyphen_kept": "b a m b ɔ ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ d a w ˧˨ ▁ t a w ˨ˀ˩ ʔ ▁ n o j ˨ˀ˩ ʔ ▁ b o ˨ˀ˩ ʔ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "b a m b ɔ ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ d a w ˧˨ ▁ t a w ˨ˀ˩ ʔ ▁ n o j ˨ˀ˩ ʔ ▁ b o ˨ˀ˩ ʔ ▁ , ▁ t ɯ ə ŋ ˧˧ ▁ t a k ˦˥ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "171.wav",
+   "text": "bumas, quản lý ngân sách, kiểm soát chi tiêu.",
+   "prep": "bumas , quản lý ngân sách , kiểm soát chi tiêu .",
+   "phon_hyphen_kept": "b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ .",
+   "phon_hyphen_space": "b u m a s ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ ɤ̆ n ˧˧ ▁ s ɛ k ˦˥ ▁ , ▁ k i ə m ˧˩˨ ▁ s w a t ˦˥ ▁ c i ˧˧ ▁ t i ə w ˧˧ ▁ ."
+  },
+  {
+   "id": "172.wav",
+   "text": "cúc cúc, quản lý nhà hàng, phục vụ nhanh chóng.",
+   "prep": "cúc cúc , quản lý nhà hàng , phục vụ nhanh chóng .",
+   "phon_hyphen_kept": "k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "k u k͡p ˦˥ ▁ k u k͡p ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ a ˧˨ ▁ h a ŋ ˧˨ ▁ , ▁ f u k͡p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "173.wav",
+   "text": "e-shop, bán hàng trực tuyến, mở rộng thị trường.",
+   "prep": "e-shop , bán hàng trực tuyến , mở rộng thị trường .",
+   "phon_hyphen_kept": "ɛ ˧˧ - ʂ ɔ p ˧˧ ▁ , ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ m ɤ ˧˩˨ ▁ z o ŋ͡m ˨ˀ˩ ʔ ▁ tʰ i ˨ˀ˩ ʔ ▁ c ɯ ə ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "ɛ ˧˧ ▁ s ɔ p ˧˧ ▁ , ▁ b a n ˨˦ ▁ h a ŋ ˧˨ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ m ɤ ˧˩˨ ▁ z o ŋ͡m ˨ˀ˩ ʔ ▁ tʰ i ˨ˀ˩ ʔ ▁ c ɯ ə ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "174.wav",
+   "text": "elearning, học mọi lúc, phát triển kỹ năng.",
+   "prep": "elearning , học mọi lúc , phát triển kỹ năng .",
+   "phon_hyphen_kept": "ɛ l ă r ˧˧ n i ŋ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ , ▁ f a t ˦˥ ▁ c i ə n ˧˩˨ ▁ k i ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "ɛ l ă r ˧˧ n i ŋ ˧˧ ▁ , ▁ h ɔ k͡p ˨ˀ˩ ▁ m ɔ j ˨ˀ˩ ʔ ▁ l u k͡p ˦˥ ▁ , ▁ f a t ˦˥ ▁ c i ə n ˧˩˨ ▁ k i ˧ˀ˥ ▁ n ă ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "175.wav",
+   "text": "em-shop keeper, quản lý cửa hàng, theo dõi doanh số.",
+   "prep": "em-shop keeper , quản lý cửa hàng , theo dõi doanh số .",
+   "phon_hyphen_kept": "ɛ m ˧˧ - ʂ ɔ p ˧˧ ▁ k i p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "ɛ m ˧˧ ▁ s ɔ p ˧˧ ▁ k i p ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k ɯ ə ˧˩˨ ▁ h a ŋ ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "176.wav",
+   "text": "em-tax, kê khai thuế, giảm thời gian xử lý.",
+   "prep": "em-tax , kê khai thuế , giảm thời gian xử lý .",
+   "phon_hyphen_kept": "ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ , ▁ z a m ˧˩˨ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ .",
+   "phon_hyphen_space": "ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ k e ˧˧ ▁ x a j ˧˧ ▁ tʰ w e ˨˦ ▁ , ▁ z a m ˧˩˨ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ."
+  },
+  {
+   "id": "177.wav",
+   "text": "employee cập nhật hồ sơ, quản lý thông tin, thao tác dễ dàng.",
+   "prep": "employee cập nhật hồ sơ , quản lý thông tin , thao tác dễ dàng .",
+   "phon_hyphen_kept": "ɛ m p l w i ɛ ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "ɛ m p l w i ɛ ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "178.wav",
+   "text": "gi-ét-si, theo dõi thu chi, quản lý hóa đơn.",
+   "prep": "gi-ét-si , theo dõi thu chi , quản lý hóa đơn .",
+   "phon_hyphen_kept": "z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ .",
+   "phon_hyphen_space": "z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ."
+  },
+  {
+   "id": "179.wav",
+   "text": "gotadi, đặt vé trực tuyến, quản lý chuyến đi.",
+   "prep": "gotadi , đặt vé trực tuyến , quản lý chuyến đi .",
+   "phon_hyphen_kept": "ɣ ɔ t ˈa z i ˧˧ ▁ , ▁ d ă t ˨ˀ˩ ▁ v ɛ ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c w i ə n ˨˦ ▁ d i ˧˧ ▁ .",
+   "phon_hyphen_space": "ɣ ɔ t ˈa z i ˧˧ ▁ , ▁ d ă t ˨ˀ˩ ▁ v ɛ ˨˦ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ c w i ə n ˨˦ ▁ d i ˧˧ ▁ ."
+  },
+  {
+   "id": "180.wav",
+   "text": "hắt-rờ-mờ, quản lý nhân sự, lưu trữ dữ liệu.",
+   "prep": "hắt-rờ-mờ , quản lý nhân sự , lưu trữ dữ liệu .",
+   "phon_hyphen_kept": "h ă t ˦˥ - z ɤ ˧˨ - m ɤ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "h ă t ˦˥ ▁ z ɤ ˧˨ ▁ m ɤ ˧˨ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "181.wav",
+   "text": "hộ kinh doanh sử dụng a-mít kế toán, quản lý thuận tiện.",
+   "prep": "hộ kinh doanh sử dụng a-mít kế toán , quản lý thuận tiện .",
+   "phon_hyphen_kept": "h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ a ˧˧ - m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "h o ˨ˀ˩ ʔ ▁ k i ŋ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s ɯ ˧˩˨ ▁ z u ŋ͡m ˨ˀ˩ ʔ ▁ a ˧˧ ▁ m i t ˦˥ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "182.wav",
+   "text": "le-ki-ma, nền tảng quản lý, hỗ trợ doanh nghiệp.",
+   "prep": "le-ki-ma , nền tảng quản lý , hỗ trợ doanh nghiệp .",
+   "phon_hyphen_kept": "l ɛ ˧˧ - k i ˧˧ - m a ˧˧ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "l ɛ ˧˧ ▁ k i ˧˧ ▁ m a ˧˧ ▁ , ▁ n e n ˧˨ ▁ t a ŋ ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "183.wav",
+   "text": "panda-chấm-nét, quản trị doanh nghiệp, xử lý hiệu quả.",
+   "prep": "panda-chấm-nét , quản trị doanh nghiệp , xử lý hiệu quả .",
+   "phon_hyphen_kept": "p a n d a ˧˧ - c ɤ̆ m ˨˦ - n ɛ t ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ c i ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "p a n ˧˧ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˦˥ ▁ , ▁ k w a n ˧˩˨ ▁ c i ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "184.wav",
+   "text": "pha-cừn-chấm-net, lưu trữ dữ liệu, truy cập dễ dàng.",
+   "prep": "pha-cừn-chấm-net , lưu trữ dữ liệu , truy cập dễ dàng .",
+   "phon_hyphen_kept": "f a ˧˧ - k ɯ n ˧˨ - c ɤ̆ m ˨˦ - n ɛ t ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ .",
+   "phon_hyphen_space": "f a ˧˧ ▁ k ɯ n ˧˨ ▁ c ɤ̆ m ˨˦ ▁ n ɛ t ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ c w i ˧˧ ▁ k ɤ̆ p ˨ˀ˩ ▁ z e ˧ˀ˥ ▁ z a ŋ ˧˨ ▁ ."
+  },
+  {
+   "id": "185.wav",
+   "text": "quản lý cán bộ chấm vi-en, lưu trữ hồ sơ, tra cứu nhanh.",
+   "prep": "quản lý cán bộ chấm vi-en , lưu trữ hồ sơ , tra cứu nhanh .",
+   "phon_hyphen_kept": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ k a n ˨˦ ▁ b o ˨ˀ˩ ʔ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ - ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ .",
+   "phon_hyphen_space": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ k a n ˨˦ ▁ b o ˨ˀ˩ ʔ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h o ˧˨ ▁ s ɤ ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ ."
+  },
+  {
+   "id": "186.wav",
+   "text": "quản lý cán bộ chấm vi en, cập nhật dữ liệu, thao tác thuận tiện.",
+   "prep": "quản lý cán bộ chấm vi en , cập nhật dữ liệu , thao tác thuận tiện .",
+   "phon_hyphen_kept": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ k a n ˨˦ ▁ b o ˨ˀ˩ ʔ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ k a n ˨˦ ▁ b o ˨ˀ˩ ʔ ▁ c ɤ̆ m ˨˦ ▁ v i ˧˧ ▁ ɛ n ˧˧ ▁ , ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ tʰ a w ˧˧ ▁ t a k ˦˥ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "187.wav",
+   "text": "short-link, rút gọn liên kết, chia sẻ nhanh chóng.",
+   "prep": "short-link , rút gọn liên kết , chia sẻ nhanh chóng .",
+   "phon_hyphen_kept": "ɕ ɔ r t ˧˧ - l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "s ɔ r t ˧˧ ▁ l i n k ˧˧ ▁ , ▁ z u t ˦˥ ▁ ɣ ɔ n ˨ˀ˩ ʔ ▁ l i ə n ˧˧ ▁ k e t ˦˥ ▁ , ▁ c i ə ˧˧ ▁ s ɛ ˧˩˨ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "188.wav",
+   "text": "sổ thu chi, ghi nhận giao dịch, quản lý tài chính.",
+   "prep": "sổ thu chi , ghi nhận giao dịch , quản lý tài chính .",
+   "phon_hyphen_kept": "s o ˧˩˨ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ ɣ i ˧˧ ▁ ɲ ɤ̆ n ˨ˀ˩ ʔ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ c i ŋ ˨˦ ▁ .",
+   "phon_hyphen_space": "s o ˧˩˨ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ ɣ i ˧˧ ▁ ɲ ɤ̆ n ˨ˀ˩ ʔ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t a j ˧˨ ▁ c i ŋ ˨˦ ▁ ."
+  },
+  {
+   "id": "189.wav",
+   "text": "taskgov, theo dõi công việc, xử lý hiệu quả.",
+   "prep": "taskgov , theo dõi công việc , xử lý hiệu quả .",
+   "phon_hyphen_kept": "t a s k ˧˧ ɣ ɔ v ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "t a s k ˧˧ ɣ ɔ v ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ k o ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "190.wav",
+   "text": "thiết bị được quản lý tập trung, kiểm tra trạng thái.",
+   "prep": "thiết bị được quản lý tập trung , kiểm tra trạng thái .",
+   "phon_hyphen_kept": "tʰ i ə t ˦˥ ▁ b i ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ k i ə m ˧˩˨ ▁ c a ˧˧ ▁ c a ŋ ˨ˀ˩ ʔ ▁ tʰ a j ˨˦ ▁ .",
+   "phon_hyphen_space": "tʰ i ə t ˦˥ ▁ b i ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ k i ə m ˧˩˨ ▁ c a ˧˧ ▁ c a ŋ ˨ˀ˩ ʔ ▁ tʰ a j ˨˦ ▁ ."
+  },
+  {
+   "id": "191.wav",
+   "text": "thông tin nhân sự được cập nhật, tra cứu thuận tiện.",
+   "prep": "thông tin nhân sự được cập nhật , tra cứu thuận tiện .",
+   "phon_hyphen_kept": "tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ɲ ɤ̆ n ˧˧ ▁ s ɯ ˨ˀ˩ ʔ ▁ d ɯ ə k ˨ˀ˩ ▁ k ɤ̆ p ˨ˀ˩ ▁ ɲ ɤ̆ t ˨ˀ˩ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ tʰ w ɤ̆ n ˨ˀ˩ ʔ ▁ t i ə n ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "192.wav",
+   "text": "văn phòng số, số hóa quy trình, nâng cao năng suất.",
+   "prep": "văn phòng số , số hóa quy trình , nâng cao năng suất .",
+   "phon_hyphen_kept": "v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "v ă n ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ˨˦ ▁ , ▁ s o ˨˦ ▁ h w a ˨˦ ▁ k w i ˧˧ ▁ c i ŋ ˧˨ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "193.wav",
+   "text": "xi-a-em bình điền, chăm sóc khách hàng, tối ưu doanh số.",
+   "prep": "xi-a-em bình điền , chăm sóc khách hàng , tối ưu doanh số .",
+   "phon_hyphen_kept": "s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ b i ŋ ˧˨ ▁ d i ə n ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ b i ŋ ˧˨ ▁ d i ə n ˧˨ ▁ , ▁ c ă m ˧˧ ▁ s ɔ k͡p ˦˥ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ t o j ˨˦ ▁ ɯ w ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "194.wav",
+   "text": "y-sai, hỗ trợ doanh nghiệp, nâng cao năng suất.",
+   "prep": "y-sai , hỗ trợ doanh nghiệp , nâng cao năng suất .",
+   "phon_hyphen_kept": "i ˧˧ - s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ .",
+   "phon_hyphen_space": "i ˧˧ ▁ s a j ˧˧ ▁ , ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ n ă ŋ ˧˧ ▁ s w ɤ̆ t ˦˥ ▁ ."
+  },
+  {
+   "id": "195.wav",
+   "text": "ây-ét-pi, tích hợp dữ liệu, kết nối hệ thống.",
+   "prep": "ây-ét-pi , tích hợp dữ liệu , kết nối hệ thống .",
+   "phon_hyphen_kept": "ɤ̆ j ˧˧ - ɛ t ˦˥ - p i ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "ɤ̆ j ˧˧ ▁ ɛ t ˦˥ ▁ p i ˧˧ ▁ , ▁ t i k ˦˥ ▁ h ɤ p ˨ˀ˩ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ k e t ˦˥ ▁ n o j ˨˦ ▁ h e ˨ˀ˩ ʔ ▁ tʰ o ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "196.wav",
+   "text": "ét-em-y, quản lý kế toán, xử lý nghiệp vụ.",
+   "prep": "ét-em-y , quản lý kế toán , xử lý nghiệp vụ .",
+   "phon_hyphen_kept": "ɛ t ˦˥ - ɛ m ˧˧ - i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "ɛ t ˦˥ ▁ ɛ m ˧˧ ▁ i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k e ˨˦ ▁ t w a n ˨˦ ▁ , ▁ s ɯ ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə p ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "197.wav",
+   "text": "mi-sa-sa-la-gov, chuyển đổi số, nâng cao hiệu quả quản lý.",
+   "prep": "mi-sa-sa-la-gov , chuyển đổi số , nâng cao hiệu quả quản lý .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ - s a ˧˧ - l a ˧˧ - ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ s a ˧˧ ▁ l a ˧˧ ▁ ɣ ɔ v ˧˧ ▁ , ▁ c w i ə n ˧˩˨ ▁ d o j ˧˩˨ ▁ s o ˨˦ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ."
+  },
+  {
+   "id": "198.wav",
+   "text": "mi-sa y-sai, dịch vụ chữ ký số.",
+   "prep": "mi-sa y-sai , dịch vụ chữ ký số .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ i ˧˧ - s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ i ˧˧ ▁ s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "199.wav",
+   "text": "mi-sa y-sai, dịch vụ cho doanh nghiệp, làm ký số.",
+   "prep": "mi-sa y-sai , dịch vụ cho doanh nghiệp , làm ký số .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ i ˧˧ - s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɔ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ l a m ˧˨ ▁ k i ˨˦ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ i ˧˧ ▁ s a j ˧˧ ▁ , ▁ z i k ˨ˀ˩ ▁ v u ˨ˀ˩ ʔ ▁ c ɔ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ , ▁ l a m ˧˨ ▁ k i ˨˦ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "200.wav",
+   "text": "mi-sa y-sai, ký số điện tử, tin dùng cho doanh nghiệp.",
+   "prep": "mi-sa y-sai , ký số điện tử , tin dùng cho doanh nghiệp .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ i ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ t i n ˧˧ ▁ z u ŋ͡m ˧˨ ▁ c ɔ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ i ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ s o ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ , ▁ t i n ˧˧ ▁ z u ŋ͡m ˧˨ ▁ c ɔ ˧˧ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "201.wav",
+   "text": "mi-sa em-tax, lập tờ khai nhanh chóng, tiết kiệm thời gian.",
+   "prep": "mi-sa em-tax , lập tờ khai nhanh chóng , tiết kiệm thời gian .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ l ɤ̆ p ˨ˀ˩ ▁ t ɤ ˧˨ ▁ x a j ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ l ɤ̆ p ˨ˀ˩ ▁ t ɤ ˧˨ ▁ x a j ˧˧ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ , ▁ t i ə t ˦˥ ▁ k i ə m ˨ˀ˩ ʔ ▁ tʰ ɤ j ˧˨ ▁ z a n ˧˧ ▁ ."
+  },
+  {
+   "id": "202.wav",
+   "text": "mi-sa em-tax, đơn giản hóa thuế điện tử.",
+   "prep": "mi-sa em-tax , đơn giản hóa thuế điện tử .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ h w a ˨˦ ▁ tʰ w e ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ h w a ˨˦ ▁ tʰ w e ˨˦ ▁ d i ə n ˨ˀ˩ ʔ ▁ t ɯ ˧˩˨ ▁ ."
+  },
+  {
+   "id": "203.wav",
+   "text": "mi-sa em-tax, quản lý nghĩa vụ thuế, đơn giản và hiệu quả.",
+   "prep": "mi-sa em-tax , quản lý nghĩa vụ thuế , đơn giản và hiệu quả .",
+   "phon_hyphen_kept": "m i ˧˧ - s a ˧˧ ▁ ɛ m ˧˧ - t a k ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə ˧ˀ˥ ▁ v u ˨ˀ˩ ʔ ▁ tʰ w e ˨˦ ▁ , ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ v a ˧˨ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ .",
+   "phon_hyphen_space": "m i ˧˧ ▁ s a ˧˧ ▁ ɛ m ˧˧ ▁ t a k ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ ŋ i ə ˧ˀ˥ ▁ v u ˨ˀ˩ ʔ ▁ tʰ w e ˨˦ ▁ , ▁ d ɤ n ˧˧ ▁ z a n ˧˩˨ ▁ v a ˧˨ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ ."
+  },
+  {
+   "id": "204.wav",
+   "text": "a-mis wi-sai, ký tài liệu số.",
+   "prep": "a-mis wi-sai , ký tài liệu số .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ w i ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ s o ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ w i ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ t a j ˧˨ ▁ l i ə w ˨ˀ˩ ʔ ▁ s o ˨˦ ▁ ."
+  },
+  {
+   "id": "205.wav",
+   "text": "a-mis wi-sai, ký hợp đồng trực tuyến, tiện lợi và bảo mật.",
+   "prep": "a-mis wi-sai , ký hợp đồng trực tuyến , tiện lợi và bảo mật .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ w i ˧˧ - s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ h ɤ p ˨ˀ˩ ▁ d o ŋ͡m ˧˨ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ v a ˧˨ ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ w i ˧˧ ▁ s a j ˧˧ ▁ , ▁ k i ˨˦ ▁ h ɤ p ˨ˀ˩ ▁ d o ŋ͡m ˧˨ ▁ c ɯ k ˨ˀ˩ ▁ t w i ə n ˨˦ ▁ , ▁ t i ə n ˨ˀ˩ ʔ ▁ l ɤ j ˨ˀ˩ ʔ ▁ v a ˧˨ ▁ b a w ˧˩˨ ▁ m ɤ̆ t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "206.wav",
+   "text": "a-mis wi-sai, giải pháp chữ ký số, đáp ứng nhu cầu doanh nghiệp.",
+   "prep": "a-mis wi-sai , giải pháp chữ ký số , đáp ứng nhu cầu doanh nghiệp .",
+   "phon_hyphen_kept": "a ˧˧ - m i s ˧˧ ▁ w i ˧˧ - s a j ˧˧ ▁ , ▁ z a j ˧˩˨ ▁ f a p ˦˥ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ , ▁ d a p ˦˥ ▁ ɯ ŋ ˨˦ ▁ ɲ u ˧˧ ▁ k ɤ̆ w ˧˨ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i s ˧˧ ▁ w i ˧˧ ▁ s a j ˧˧ ▁ , ▁ z a j ˧˩˨ ▁ f a p ˦˥ ▁ c ɯ ˧ˀ˥ ▁ k i ˨˦ ▁ s o ˨˦ ▁ , ▁ d a p ˦˥ ▁ ɯ ŋ ˨˦ ▁ ɲ u ˧˧ ▁ k ɤ̆ w ˧˨ ▁ z w ɛ ŋ ˧˧ ▁ ŋ i ə p ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "207.wav",
+   "text": "gi-ét-si dùng để theo dõi thu chi, quản lý hóa đơn.",
+   "prep": "gi-ét-si dùng để theo dõi thu chi , quản lý hóa đơn .",
+   "phon_hyphen_kept": "z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ z u ŋ͡m ˧˨ ▁ d e ˧˩˨ ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ .",
+   "phon_hyphen_space": "z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ z u ŋ͡m ˧˨ ▁ d e ˧˩˨ ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ tʰ u ˧˧ ▁ c i ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ ."
+  },
+  {
+   "id": "208.wav",
+   "text": "gi-ét-si hỗ trợ lưu trữ hóa đơn, quản lý giao dịch, đảm bảo dữ liệu luôn an toàn.",
+   "prep": "gi-ét-si hỗ trợ lưu trữ hóa đơn , quản lý giao dịch , đảm bảo dữ liệu luôn an toàn .",
+   "phon_hyphen_kept": "z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ d a m ˧˩˨ ▁ b a w ˧˩˨ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ l u ə n ˧˧ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ .",
+   "phon_hyphen_space": "z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ h w a ˨˦ ▁ d ɤ n ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ d a m ˧˩˨ ▁ b a w ˧˩˨ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ l u ə n ˧˧ ▁ a n ˧˧ ▁ t w a n ˧˨ ▁ ."
+  },
+  {
+   "id": "209.wav",
+   "text": "Trong việc hỗ trợ quản lý sổ sách, gi-ét-si là số một.",
+   "prep": "trong việc hỗ trợ quản lý sổ sách , gi-ét-si là số một .",
+   "phon_hyphen_kept": "c ɔ ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ s o ˧˩˨ ▁ s ɛ k ˦˥ ▁ , ▁ z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ l a ˧˨ ▁ s o ˨˦ ▁ m o t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "c ɔ ŋ͡m ˧˧ ▁ v i ə k ˨ˀ˩ ▁ h o ˧ˀ˥ ▁ c ɤ ˨ˀ˩ ʔ ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ s o ˧˩˨ ▁ s ɛ k ˦˥ ▁ , ▁ z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ l a ˧˨ ▁ s o ˨˦ ▁ m o t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "210.wav",
+   "text": "gi-ét-si giúp tổng hợp số liệu, theo dõi chi phí, đưa ra báo cáo nhanh chóng.",
+   "prep": "gi-ét-si giúp tổng hợp số liệu , theo dõi chi phí , đưa ra báo cáo nhanh chóng .",
+   "phon_hyphen_kept": "z i ˧˧ - ɛ t ˦˥ - s i ˧˧ ▁ z u p ˦˥ ▁ t o ŋ͡m ˧˩˨ ▁ h ɤ p ˨ˀ˩ ▁ s o ˨˦ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ , ▁ d ɯ ə ˧˧ ▁ z a ˧˧ ▁ b a w ˨˦ ▁ k a w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "z i ˧˧ ▁ ɛ t ˦˥ ▁ s i ˧˧ ▁ z u p ˦˥ ▁ t o ŋ͡m ˧˩˨ ▁ h ɤ p ˨ˀ˩ ▁ s o ˨˦ ▁ l i ə w ˨ˀ˩ ʔ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ c i ˧˧ ▁ f i ˨˦ ▁ , ▁ d ɯ ə ˧˧ ▁ z a ˧˧ ▁ b a w ˨˦ ▁ k a w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "211.wav",
+   "text": "a-mít văn thư, quản lý công văn, tra cứu nhanh chóng.",
+   "prep": "a-mít văn thư , quản lý công văn , tra cứu nhanh chóng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ v ă n ˧˧ ▁ tʰ ɯ ˧˧ ▁ , ▁ k w a n ˧˩˨ ▁ l i ˨˦ ▁ k o ŋ͡m ˧˧ ▁ v ă n ˧˧ ▁ , ▁ c a ˧˧ ▁ k ɯ w ˨˦ ▁ ɲ ɛ ŋ ˧˧ ▁ c ɔ ŋ͡m ˨˦ ▁ ."
+  },
+  {
+   "id": "212.wav",
+   "text": "Xin chào, em có thể giúp gì cho anh chị ạ.",
+   "prep": "xin chào , em có thể giúp gì cho anh chị ạ .",
+   "phon_hyphen_kept": "s i n ˧˧ ▁ c a w ˧˨ ▁ , ▁ ɛ m ˧˧ ▁ k ɔ ˨˦ ▁ tʰ e ˧˩˨ ▁ z u p ˦˥ ▁ ɣ i ˧˨ ▁ c ɔ ˧˧ ▁ ɛ ŋ ˧˧ ▁ c i ˨ˀ˩ ʔ ▁ a ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "s i n ˧˧ ▁ c a w ˧˨ ▁ , ▁ ɛ m ˧˧ ▁ k ɔ ˨˦ ▁ tʰ e ˧˩˨ ▁ z u p ˦˥ ▁ ɣ i ˧˨ ▁ c ɔ ˧˧ ▁ ɛ ŋ ˧˧ ▁ c i ˨ˀ˩ ʔ ▁ a ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "213.wav",
+   "text": "Dạ, em xin thông báo với chị như sau.",
+   "prep": "dạ , em xin thông báo với chị như sau .",
+   "phon_hyphen_kept": "z a ˨ˀ˩ ʔ ▁ , ▁ ɛ m ˧˧ ▁ s i n ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ v ɤ j ˨˦ ▁ c i ˨ˀ˩ ʔ ▁ ɲ ɯ ˧˧ ▁ s ă w ˧˧ ▁ .",
+   "phon_hyphen_space": "z a ˨ˀ˩ ʔ ▁ , ▁ ɛ m ˧˧ ▁ s i n ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˨˦ ▁ v ɤ j ˨˦ ▁ c i ˨ˀ˩ ʔ ▁ ɲ ɯ ˧˧ ▁ s ă w ˧˧ ▁ ."
+  },
+  {
+   "id": "214.wav",
+   "text": "Quản lý khách hàng với a-mít xi-a-em, lưu trữ dữ liệu tập trung, nâng cao hiệu quả làm việc.",
+   "prep": "quản lý khách hàng với a-mít xi-a-em , lưu trữ dữ liệu tập trung , nâng cao hiệu quả làm việc .",
+   "phon_hyphen_kept": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ v ɤ j ˨˦ ▁ a ˧˧ - m i t ˦˥ ▁ s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "k w a n ˧˩˨ ▁ l i ˨˦ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ v ɤ j ˨˦ ▁ a ˧˧ ▁ m i t ˦˥ ▁ s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ l ɯ w ˧˧ ▁ c ɯ ˧ˀ˥ ▁ z ɯ ˧ˀ˥ ▁ l i ə w ˨ˀ˩ ʔ ▁ t ɤ̆ p ˨ˀ˩ ▁ c u ŋ͡m ˧˧ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ h i ə w ˨ˀ˩ ʔ ▁ k w a ˧˩˨ ▁ l a m ˧˨ ▁ v i ə k ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "215.wav",
+   "text": "a-mít xi-a-em, theo dõi giao dịch, nâng cao chất lượng.",
+   "prep": "a-mít xi-a-em , theo dõi giao dịch , nâng cao chất lượng .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ c ɤ̆ t ˦˥ ▁ l ɯ ə ŋ ˨ˀ˩ ʔ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ tʰ e o ˧˧ ▁ z ɔ j ˧ˀ˥ ▁ z a w ˧˧ ▁ z i k ˨ˀ˩ ▁ , ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ c ɤ̆ t ˦˥ ▁ l ɯ ə ŋ ˨ˀ˩ ʔ ▁ ."
+  },
+  {
+   "id": "216.wav",
+   "text": "a-mít xi-a-em, phân tích hành vi khách hàng, đưa ra quyết định chính xác.",
+   "prep": "a-mít xi-a-em , phân tích hành vi khách hàng , đưa ra quyết định chính xác .",
+   "phon_hyphen_kept": "a ˧˧ - m i t ˦˥ ▁ s i ˧˧ - a ˧˧ - ɛ m ˧˧ ▁ , ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ h ɛ ŋ ˧˨ ▁ v i ˧˧ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ d ɯ ə ˧˧ ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ c i ŋ ˨˦ ▁ s a k ˦˥ ▁ .",
+   "phon_hyphen_space": "a ˧˧ ▁ m i t ˦˥ ▁ s i ˧˧ ▁ a ˧˧ ▁ ɛ m ˧˧ ▁ , ▁ f ɤ̆ n ˧˧ ▁ t i k ˦˥ ▁ h ɛ ŋ ˧˨ ▁ v i ˧˧ ▁ x ɛ k ˦˥ ▁ h a ŋ ˧˨ ▁ , ▁ d ɯ ə ˧˧ ▁ z a ˧˧ ▁ k w i ɛ t ˦˥ ▁ d i ŋ ˨ˀ˩ ʔ ▁ c i ŋ ˨˦ ▁ s a k ˦˥ ▁ ."
+  },
+  {
+   "id": "217.wav",
+   "text": "Một.",
+   "prep": "một .",
+   "phon_hyphen_kept": "m o t ˨ˀ˩ ▁ .",
+   "phon_hyphen_space": "m o t ˨ˀ˩ ▁ ."
+  },
+  {
+   "id": "218.wav",
+   "text": "Hai.",
+   "prep": "hai .",
+   "phon_hyphen_kept": "h a j ˧˧ ▁ .",
+   "phon_hyphen_space": "h a j ˧˧ ▁ ."
+  },
+  {
+   "id": "219.wav",
+   "text": "Ba.",
+   "prep": "ba .",
+   "phon_hyphen_kept": "b a ˧˧ ▁ .",
+   "phon_hyphen_space": "b a ˧˧ ▁ ."
+  },
+  {
+   "id": "220.wav",
+   "text": "Bốn.",
+   "prep": "bốn .",
+   "phon_hyphen_kept": "b o n ˨˦ ▁ .",
+   "phon_hyphen_space": "b o n ˨˦ ▁ ."
+  },
+  {
+   "id": "221.wav",
+   "text": "Năm.",
+   "prep": "năm .",
+   "phon_hyphen_kept": "n ă m ˧˧ ▁ .",
+   "phon_hyphen_space": "n ă m ˧˧ ▁ ."
+  },
+  {
+   "id": "222.wav",
+   "text": "Sáu.",
+   "prep": "sáu .",
+   "phon_hyphen_kept": "s ă w ˨˦ ▁ .",
+   "phon_hyphen_space": "s ă w ˨˦ ▁ ."
+  },
+  {
+   "id": "223.wav",
+   "text": "Bảy.",
+   "prep": "bảy .",
+   "phon_hyphen_kept": "b ă j ˧˩˨ ▁ .",
+   "phon_hyphen_space": "b ă j ˧˩˨ ▁ ."
+  },
+  {
+   "id": "224.wav",
+   "text": "Tám.",
+   "prep": "tám .",
+   "phon_hyphen_kept": "t a m ˨˦ ▁ .",
+   "phon_hyphen_space": "t a m ˨˦ ▁ ."
+  },
+  {
+   "id": "225.wav",
+   "text": "Chín.",
+   "prep": "chín .",
+   "phon_hyphen_kept": "c i n ˨˦ ▁ .",
+   "phon_hyphen_space": "c i n ˨˦ ▁ ."
+  },
+  {
+   "id": "226.wav",
+   "text": "Mười.",
+   "prep": "mười .",
+   "phon_hyphen_kept": "m ɯ ə j ˧˨ ▁ .",
+   "phon_hyphen_space": "m ɯ ə j ˧˨ ▁ ."
+  }
+ ]
+}

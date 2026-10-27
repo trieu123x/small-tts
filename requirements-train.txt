@@ -1,0 +1,8 @@
+# Vendored VITS (third_party/vits_xphonebert) for scripts/vits_cpu_smoke.py; on top of requirements-app.txt.
+# Kaggle images already ship these; the training kernel only adds text2phonemesequence, cython, phonemizer, unidecode.
+scipy
+matplotlib
+librosa
+tensorboard
+unidecode
+phonemizer-fork

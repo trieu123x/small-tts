@@ -1,0 +1,13 @@
+# Debug app (app/). Install CPU torch first:
+#   .venv/Scripts/python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+gradio
+soundfile
+transformers
+text2phonemesequence==0.1.4
+# Alternative G2P backends. vPhon (GPL-3.0) is not on PyPI: put vPhon.py + rules.py from github.com/kirbyj/vPhon
+# (tested at 076a5d3) in the folder passed as --vphon-dir.
+viphoneme==3.0.0
+underthesea
+eng_to_ipa
+espeakng-loader==0.2.4
+phonemizer-fork==3.3.2

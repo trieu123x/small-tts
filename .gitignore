@@ -1,0 +1,23 @@
+# Claude Code local files
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Large data and model artifacts (kept on Kaggle)
+formatted_dataset2.zip
+formatted_dataset2/wavs/
+*.pth
+*.ckpt
+checkpoints/
+
+# Generated Kaggle kernels
+kaggle/*/build/
+
+# Downloaded run outputs
+runs/

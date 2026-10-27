@@ -13,23 +13,17 @@ from app import g2p_backends
 from app.pipeline import DebugPipeline
 from app.render import render_all
 
-VITS_NOTE = (
-    "No VITS checkpoint given (`--checkpoint`), so this pipeline stops at the XPhoneBERT encoder. "
-    "Audio comes from the pretrained MMS-TTS reference (generic voice, character input, no G2P)."
-)
-VITS_NOTE_CKPT = (
-    "VITS + XPhoneBERT audio comes from checkpoint `{name}`. MMS-TTS is a pretrained reference "
-    "(generic voice, character input, no G2P)."
-)
+VITS_NOTE = "No VITS checkpoint given (`--checkpoint`), so this pipeline stops at the XPhoneBERT encoder."
+VITS_NOTE_CKPT = "VITS + XPhoneBERT audio comes from checkpoint `{name}`."
 
 
 def build_ui(pipe: DebugPipeline, examples: list[str]) -> gr.Blocks:
     def run(text: str, g2p: str):
         result = pipe.run(text or "", g2p)
         if result.error:
-            return f"❌ {result.error}", None, None, None
+            return f"❌ {result.error}", None, None
         steps = [(s.name, s.seconds, s.data) for s in result.steps]
-        return render_all(steps), result.vits_audio, result.mms_audio, result.gt_audio
+        return render_all(steps), result.vits_audio, result.gt_audio
 
     note = VITS_NOTE_CKPT.format(name=pipe.checkpoint.name) if pipe.checkpoint else VITS_NOTE
     with gr.Blocks(title="tts-amis pipeline debug") as demo:
@@ -45,13 +39,12 @@ def build_ui(pipe: DebugPipeline, examples: list[str]) -> gr.Blocks:
             button = gr.Button("Run pipeline", variant="primary", scale=1)
         with gr.Row():
             vits = gr.Audio(label="VITS + XPhoneBERT (checkpoint)", type="numpy", visible=pipe.vits is not None)
-            mms = gr.Audio(label="MMS-TTS (pretrained reference)", type="numpy")
             gt = gr.Audio(label="Dataset recording (ground truth)", type="numpy")
         steps = gr.Markdown()
 
         pick.change(lambda s: s, inputs=pick, outputs=text)
         for trigger in (button.click, text.submit, g2p.change):
-            trigger(run, inputs=[text, g2p], outputs=[steps, vits, mms, gt])
+            trigger(run, inputs=[text, g2p], outputs=[steps, vits, gt])
     return demo
 
 

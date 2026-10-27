@@ -11,7 +11,7 @@ G2P_LEGEND = (
     "*Other G2P tools* (vPhon, viphoneme, espeak-ng) run per syllable; **raw output** is the tool's own notation and "
     "**phonemes → XPhoneBERT** is the same transcription mapped onto Charsiu symbols (tone numbers → Chao letters, "
     "vowel length → a/ă, ɤ/ɤ̆). Symbols with no mapping stay as they are and show up as out-of-vocab in **check**. "
-    "Words the tool cannot read fall back to CharsiuG2P. MMS-TTS audio does not depend on the G2P choice."
+    "Words the tool cannot read fall back to CharsiuG2P."
 )
 
 
@@ -75,13 +75,6 @@ def render_step(name: str, seconds: float, data: dict) -> str:
             f"Checkpoint `{data['checkpoint']}` (epoch {data['epoch']}) · {data['seconds_of_audio']} s of audio "
             f"at {data['sampling_rate']} Hz, peak {data['peak']}"
         )
-    elif name == "mms_tts":
-        body = (
-            f"**MMS input:** `{data['input_text']}`\n\n**MMS tokens:** `{data['tokens']}`\n\n"
-            f"{data['seconds_of_audio']} s of audio at {data['sampling_rate']} Hz"
-        )
-        if data["dropped"]:
-            body += f"\n\n⚠️ Characters not in the MMS vocab (silently skipped): `{' '.join(data['dropped'])}`"
     elif name == "ground_truth":
         body = (
             f"Dataset recording `{data['wav']}`: {_cell(data['original'])}"

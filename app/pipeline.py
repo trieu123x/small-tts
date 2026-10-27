@@ -9,14 +9,13 @@ import numpy as np
 import soundfile as sf
 import torch
 from text2phonemesequence import Text2PhonemeSequence
-from transformers import AutoModel, AutoTokenizer, VitsModel
+from transformers import AutoModel
 
 from app import g2p_backends
 from app.xphonebert_tokenizer import XPHONEBERT, load_xphonebert_tokenizer
 from tts_amis.phonemes import PUNCTUATION_TOKENS, split_syllables, split_words, tone_names, validate
 from tts_amis.text import normalize, normalize_with_info
 
-MMS = "facebook/mms-tts-vie"
 VITS_DIR = Path(__file__).resolve().parents[1] / "third_party" / "vits_xphonebert"
 VITS_CONFIG = VITS_DIR / "configs" / "amis_base_xphonebert.json"
 
@@ -50,7 +49,6 @@ class PipelineResult:
     steps: list[StepResult] = field(default_factory=list)
     error: str | None = None
     gt_audio: tuple[int, np.ndarray] | None = None
-    mms_audio: tuple[int, np.ndarray] | None = None
     vits_audio: tuple[int, np.ndarray] | None = None
 
 
@@ -68,9 +66,6 @@ class DebugPipeline:
         self.xpb_tokenizer = load_xphonebert_tokenizer()
         self.xpb_model = AutoModel.from_pretrained(XPHONEBERT).eval()
         self.vocab = set(self.xpb_tokenizer.get_vocab())
-        self.mms_tokenizer = AutoTokenizer.from_pretrained(MMS)
-        self.mms_model = VitsModel.from_pretrained(MMS).eval()
-        self.mms_vocab = set(self.mms_tokenizer.get_vocab())
         self.checkpoint = checkpoint
         self.vits = load_vits(checkpoint) if checkpoint else None
 
@@ -228,28 +223,6 @@ class DebugPipeline:
                 seconds_of_audio=round(len(vits_wave) / vits_sr, 2),
                 peak=round(float(np.abs(vits_wave).max()), 3),
             )
-
-        mms_text = norm.text.replace("-", " ")
-        mms_dropped = sorted({ch for ch in mms_text if ch not in self.mms_vocab})
-        mms_inputs = self.mms_tokenizer(mms_text, return_tensors="pt")
-        mms_ids = mms_inputs["input_ids"][0].tolist()
-        # With add_blank the tokenizer interleaves blank id 0 between characters; show only the characters.
-        if getattr(self.mms_tokenizer, "add_blank", False):
-            mms_ids = mms_ids[1::2]
-        mms_tokens = self.mms_tokenizer.convert_ids_to_tokens(mms_ids)
-        torch.manual_seed(0)
-        with torch.no_grad():
-            wave = self.mms_model(**mms_inputs).waveform[0].numpy()
-        sr = self.mms_model.config.sampling_rate
-        result.mms_audio = (sr, wave)
-        step(
-            "mms_tts",
-            input_text=mms_text,
-            dropped=mms_dropped,
-            tokens="".join(mms_tokens),
-            sampling_rate=sr,
-            seconds_of_audio=round(len(wave) / sr, 2),
-        )
 
         match = self.dataset.get(norm.text)
         if match and self.wav_dir:
